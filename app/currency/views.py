@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
 
+# Hello World
 def hell0_world(request):
-    breakpoint()
     return HttpResponse('Hello World')
