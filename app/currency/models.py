@@ -13,3 +13,10 @@ class Rate(models.Model):
     created = models.DateTimeField()
     buy = models.DecimalField(max_digits=10, decimal_places=2)
     sale = models.DecimalField(max_digits=10, decimal_places=2)
+
+
+class Source(models.Model):
+    name = models.CharField(max_length=64)
+    source_url = models.CharField(max_length=255)
+    fitch_ratings = models.CharField(max_length=10, null=True, blank=True)
+    social_items = models.CharField(max_length=255, null=True, blank=True)
