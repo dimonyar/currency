@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block title %}Source detail{% endblock %}
+{% block content %}
+
+    <div>
+        <p>ID - {{source.id}}</p>
+        <p>Name - {{source.name}}</p>
+        <p>URL - {{source.source_url}}</p>
+        <p>Rating - {{source.fitch_ratings}}</p>
+        <p>Social - {{source.social_items}}</p>
+    </div>
+
+{% endblock content %}

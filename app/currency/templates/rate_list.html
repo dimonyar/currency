@@ -1,7 +1,13 @@
 {% extends 'base.html' %}
 {% block title %}Rate List{% endblock %}
 {% block content %}
-
+<div>
+    <p>
+        <form action="{% url 'currency:rate_create' %}">
+            <button>Create rate</button>
+        </form>
+    </p>
+</div>
 <table border="1">
     <tr>
         <td>type</td>
@@ -17,6 +23,9 @@
         <td>{{i.buy}}</td>
         <td>{{i.sale}}</td>
         <td>{{i.created| date:"d.m.Y h:m:s"}}</td>
+        <td><form action="{% url 'currency:rate_detail' i.id %}"><button>Detail</button></form></td>
+        <td><form action="{% url 'currency:rate_update' i.id %}"><button>Edit</button></form></td>
+        <td><form action="{% url 'currency:rate_delete' i.id %}"><button>Delete</button></form></td>
     </tr>
     {% endfor %}
 </table>
