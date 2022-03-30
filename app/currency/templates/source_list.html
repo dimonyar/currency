@@ -3,7 +3,7 @@
 {% block content %}
 <div>
     <p>
-        <form action="/source_create/">
+        <form action="{% url 'currency:source_create' %}">
             <button>Create source</button>
         </form>
     </p>
@@ -23,8 +23,9 @@
         <td>{{i.source_url}}</td>
         <td>{{i.fitch_ratings}}</td>
         <td>{{i.social_items}}</td>
-        <td><form action="/source_update/{{i.id}}/"><button>Edit</button></form></td>
-        <td><form action="/source_delete/{{i.id}}/"><button>Delete</button></form></td>
+        <td><form action="{% url 'currency:source_detail' i.id %}"><button>Detail</button></form></td>
+        <td><form action="{% url 'currency:source_update' i.id %}"><button>Edit</button></form></td>
+        <td><form action="{% url 'currency:source_delete' i.id %}"><button>Delete</button></form></td>
     </tr>
     {% endfor %}
 </table>
