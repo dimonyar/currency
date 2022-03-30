@@ -1,6 +1,12 @@
-from currency.models import Rate, Source
+from currency.models import ContactUs, Rate, Source
 
 from django import forms
+
+
+class ContactusForm(forms.ModelForm):
+    class Meta:
+        model = ContactUs
+        fields = ('email_from', 'subject', 'message')
 
 
 class SourceForm(forms.ModelForm):

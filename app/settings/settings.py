@@ -132,3 +132,12 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 INTERNAL_IPS = [
     "127.0.0.1",
 ]
+
+# email settings
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp-2.1gb.ua'
+EMAIL_USE_TLS = False
+EMAIL_USE_SSL = False
+EMAIL_PORT = 465
+EMAIL_HOST_USER = 'u13961'
+EMAIL_HOST_PASSWORD = '6900bcd5'
