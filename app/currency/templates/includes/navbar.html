@@ -1,4 +1,13 @@
 <nav>
+    {% if request.user.is_authenticated %}
+        {{ request.user.first_name }} {{ request.user.last_name }} <br>
+        <button onclick="location.href='{% url 'accounts:my-profile' %}'">My Profile</button>
+        <button onclick="location.href='{% url 'logout' %}'">Log Out</button>
+    {% else %}
+        <button onclick="location.href=''">Sign Up</button>
+        <button onclick="location.href='{% url 'login' %}'">Log In</button>
+    {% endif %}
+<br>
     <a href="{% url 'index' %}">Home</a>  |
     <a href="{% url 'currency:contactus' %}">Contact list</a>  |
     <a href="{% url 'currency:rate_list' %}">Rate</a>  |
