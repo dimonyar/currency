@@ -140,9 +140,13 @@ EMAIL_USE_TLS = False
 EMAIL_USE_SSL = False
 EMAIL_PORT = 465
 EMAIL_HOST_USER = 'u13961'
-EMAIL_HOST_PASSWORD = '6900bcd6'
+EMAIL_HOST_PASSWORD = '6900bcd5'
 
 
 LOGIN_REDIRECT_URL = reverse_lazy('index')
 LOGOUT_REDIRECT_URL = reverse_lazy('index')
 AUTH_USER_MODEL = 'accounts.User'
+
+# Custom settings
+DOMAIN = 'localhost:8000'
+HTTP_SCHEMA = 'http'
