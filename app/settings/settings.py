@@ -142,7 +142,7 @@ EMAIL_PORT = 465
 EMAIL_HOST_USER = 'u13961'
 EMAIL_HOST_PASSWORD = '6900bcd6'
 
-
 LOGIN_REDIRECT_URL = reverse_lazy('index')
 LOGOUT_REDIRECT_URL = reverse_lazy('index')
 AUTH_USER_MODEL = 'accounts.User'
+
