@@ -6,6 +6,7 @@ app_name = 'currency'
 
 urlpatterns = [
     path('contactus/', currency_views.ContactusList.as_view(), name="contactus"),
+    path('contactus/create/', currency_views.ContactusCreate.as_view(), name="contactus_create"),
 
     path('rate/list/', currency_views.RateList.as_view(), name="rate_list"),
     path('rate/create/', currency_views.RateCreate.as_view(), name="rate_create"),

@@ -1,6 +1,7 @@
-from currency.forms import RateForm, SourceForm
+from currency.forms import ContactusForm, RateForm, SourceForm
 from currency.models import ContactUs, Rate, Source
 
+from django.core.mail import send_mail
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, DeleteView, DetailView, ListView, UpdateView
 
@@ -9,6 +10,39 @@ from django.views.generic import CreateView, DeleteView, DetailView, ListView, U
 class ContactusList(ListView):
     queryset = ContactUs.objects.all()
     template_name = 'contactus.html'
+
+
+# ContactUs Create Form
+class ContactusCreate(CreateView):
+    model = ContactUs
+    template_name = 'contactus_create.html'
+    form_class = ContactusForm
+    success_url = reverse_lazy('currency:contactus')
+
+    def form_valid(self, form):
+        response = super().form_valid(form)
+
+        data = form.cleaned_data
+        subject = f"Contact us: {data['subject']}"
+        message_body = f'''
+        Support Email
+
+        From: {data['email_from']}
+        Message: {data['message']}
+        '''
+        from_email = data['email_from']
+        send_mail(
+            subject,
+            message_body,
+            from_email,
+            ['d.yaroshevsky@gmail.com'],
+            fail_silently=False,
+        )
+
+        return response
+
+    def form_invalid(self, form):
+        return super().form_invalid(form)
 
 
 # Source
