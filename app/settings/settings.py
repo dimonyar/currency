@@ -145,3 +145,7 @@ EMAIL_HOST_PASSWORD = '6900bcd6'
 LOGIN_REDIRECT_URL = reverse_lazy('index')
 LOGOUT_REDIRECT_URL = reverse_lazy('index')
 AUTH_USER_MODEL = 'accounts.User'
+
+# Custom settings
+DOMAIN = 'localhost:8000'
+HTTP_SCHEMA = 'http'

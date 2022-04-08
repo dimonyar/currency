@@ -4,7 +4,7 @@
         <button onclick="location.href='{% url 'accounts:my-profile' %}'">My Profile</button>
         <button onclick="location.href='{% url 'logout' %}'">Log Out</button>
     {% else %}
-        <button onclick="location.href=''">Sign Up</button>
+        <button onclick="location.href='{% url 'accounts:signup' %}'">Sign Up</button>
         <button onclick="location.href='{% url 'login' %}'">Log In</button>
     {% endif %}
 <br>
