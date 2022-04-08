@@ -83,7 +83,7 @@ class SourceDetail(DetailView):
 
 # Rate
 class RateList(ListView):
-    model = Rate
+    queryset = Rate.objects.all().order_by('-id').select_related('source')
     template_name = 'rate_list.html'
 
 

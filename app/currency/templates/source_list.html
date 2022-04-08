@@ -12,17 +12,17 @@
     <tr align="center">
         <td>id</td>
         <td>name</td>
-        <td>source_url</td>
-        <td>fitch_ratings</td>
-        <td>social_items</td>
+        <td>url</td>
+        <td>ratings</td>
+        <td>social</td>
     </tr>
     {%for i in source_list %}
     <tr>
         <td>{{i.id}}</td>
         <td>{{i.name}}</td>
-        <td>{{i.source_url}}</td>
-        <td>{{i.fitch_ratings}}</td>
-        <td>{{i.social_items}}</td>
+        <td>{{i.url}}</td>
+        <td>{{i.ratings}}</td>
+        <td>{{i.social}}</td>
         <td><form action="{% url 'currency:source_detail' i.id %}"><button>Detail</button></form></td>
         <td><form action="{% url 'currency:source_update' i.id %}"><button>Edit</button></form></td>
         <td><form action="{% url 'currency:source_delete' i.id %}"><button>Delete</button></form></td>

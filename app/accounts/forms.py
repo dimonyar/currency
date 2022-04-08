@@ -39,9 +39,10 @@ class SignUpForm(forms.ModelForm):
     @staticmethod
     def _send_activation_email(user):
         subject = f'''Registration at {settings.DOMAIN}'''
-        message_body = f'''You registered an account on {settings.DOMAIN}, before being able to use your account you
-        need to verify that this is your email address by clicking here: {settings.HTTP_SCHEMA}://{settings.DOMAIN}
-{reverse('accounts:activate-user',args=[user.username])}
+        message_body = f'''
+        You registered an account on {settings.DOMAIN}, before being able to use your account you
+        need to verify that this is your email address by clicking here:
+        {settings.HTTP_SCHEMA}://{settings.DOMAIN}{reverse('accounts:activate-user',args=[user.username])}
 
         Kind Regards, {settings.DOMAIN}
         '''
