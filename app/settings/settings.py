@@ -9,11 +9,15 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
-
+import os
 from pathlib import Path
 
 from django.urls import reverse_lazy
 
+import dotenv
+
+
+dotenv.load_dotenv('../env/.env')
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -135,12 +139,12 @@ INTERNAL_IPS = [
 
 # email settings
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp-2.1gb.ua'
+EMAIL_HOST = os.environ['EMAIL_HOST']
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = False
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'u13961'
-EMAIL_HOST_PASSWORD = '6900bcd6'
+EMAIL_HOST_USER = os.environ['EMAIL_HOST_USER']
+EMAIL_HOST_PASSWORD = os.environ['EMAIL_HOST_PASSWORD']
 
 LOGIN_REDIRECT_URL = reverse_lazy('index')
 LOGOUT_REDIRECT_URL = reverse_lazy('index')

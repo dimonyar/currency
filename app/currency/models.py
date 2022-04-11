@@ -9,16 +9,19 @@ class ContactUs(models.Model):
     message = models.TextField(max_length=1000)
 
 
+class Source(models.Model):
+    name = models.CharField(max_length=64)
+    url = models.CharField(max_length=255)
+    ratings = models.CharField(max_length=10, null=True, blank=True)
+    social = models.CharField(max_length=255, null=True, blank=True)
+
+    def __str__(self):
+        return self.name
+
+
 class Rate(models.Model):
     type = models.CharField(max_length=5, choices=mch.RateType.choices)  # noqa: VNE003, A003
-    source = models.CharField(max_length=64)
+    source = models.ForeignKey(Source, on_delete=models.CASCADE)
     created = models.DateTimeField(auto_now_add=True)
     buy = models.DecimalField(max_digits=10, decimal_places=2)
     sale = models.DecimalField(max_digits=10, decimal_places=2)
-
-
-class Source(models.Model):
-    name = models.CharField(max_length=64)
-    source_url = models.CharField(max_length=255)
-    fitch_ratings = models.CharField(max_length=10, null=True, blank=True)
-    social_items = models.CharField(max_length=255, null=True, blank=True)
