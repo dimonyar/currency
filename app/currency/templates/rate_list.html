@@ -28,7 +28,6 @@
                 <td>{{i.sale}}</td>
                 <td>{{i.created| date:"d.m.Y h:m:s"}}</td>
                 <td>
-                    {% if request.user.is_superuser %}
                     <div class="dropdown">
                         <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton2"
                                 data-bs-toggle="dropdown" aria-expanded="false">
@@ -41,13 +40,6 @@
                             <li><a class="dropdown-item" href="{% url 'currency:rate_delete' i.id %}">Delete</a></li>
                         </ul>
                     </div>
-                    {% else %}
-                    <form action="{% url 'currency:rate_detail' i.id %}">
-                        <button class="btn btn-secondary">
-                            Detail
-                        </button>
-                    </form>
-                        {% endif %}
                 </td>
             </tr>
             {% endfor %}
