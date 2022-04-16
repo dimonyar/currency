@@ -5,7 +5,7 @@
     <div class="col">
         <p>
         <form action="{% url 'currency:source_create' %}">
-            <button>Create source</button>
+            <button class="btn btn-secondary">Create source</button>
         </form>
         </p>
     </div>
@@ -15,14 +15,10 @@
         <table class="table table-striped table-hover">
             <tr align="center">
                 <th scope="col">id</th>
-                <th scope="col">name</
-                >
-                <th scope="col">url</
-                >
-                <th scope="col">ratings</
-                >
-                <th scope="col">social</
-                >
+                <th scope="col">name</th>
+                <th scope="col">url</th>
+                <th scope="col">ratings</th>
+                <th scope="col">social</th>
             </tr>
             {%for i in source_list %}
             <tr>
@@ -32,19 +28,18 @@
                 <td>{{i.ratings}}</td>
                 <td>{{i.social}}</td>
                 <td>
-                    <form action="{% url 'currency:source_detail' i.id %}">
-                        <button>Detail</button>
-                    </form>
-                </td>
-                <td>
-                    <form action="{% url 'currency:source_update' i.id %}">
-                        <button>Edit</button>
-                    </form>
-                </td>
-                <td>
-                    <form action="{% url 'currency:source_delete' i.id %}">
-                        <button>Delete</button>
-                    </form>
+                    <div class="dropdown">
+                        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton2"
+                                data-bs-toggle="dropdown" aria-expanded="false">
+                            Actions
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
+                            <li><a class="dropdown-item active"
+                                   href="{% url 'currency:source_detail' i.id %}">Detail</a></li>
+                            <li><a class="dropdown-item" href="{% url 'currency:source_update' i.id %}">Edit</a></li>
+                            <li><a class="dropdown-item" href="{% url 'currency:source_delete' i.id %}">Delete</a></li>
+                        </ul>
+                    </div>
                 </td>
             </tr>
             {% endfor %}
