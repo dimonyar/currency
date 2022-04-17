@@ -3,11 +3,12 @@
 {% block content %}
 
     <div>
+        <div><img src="{{source.logo_url}}" width="100" height="100" class="rounded-circle"></div>
         <p>ID - {{source.id}}</p>
         <p>Name - {{source.name}}</p>
-        <p>URL - {{source.source_url}}</p>
-        <p>Rating - {{source.fitch_ratings}}</p>
-        <p>Social - {{source.social_items}}</p>
+        <p>URL - {{source.url|default_if_none:""}}</p>
+        <p>Rating - {{source.ratings|default_if_none:""}}</p>
+        <p>Social - {{source.social|default_if_none:""}}</p>
     </div>
 
 {% endblock content %}

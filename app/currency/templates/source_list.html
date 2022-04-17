@@ -14,7 +14,7 @@
     <div class="col">
         <table class="table table-striped table-hover">
             <tr align="center">
-                <th scope="col">id</th>
+                <th scope="col">logo</th>
                 <th scope="col">name</th>
                 <th scope="col">url</th>
                 <th scope="col">ratings</th>
@@ -22,7 +22,7 @@
             </tr>
             {%for i in source_list %}
             <tr>
-                <td>{{i.id}}</td>
+                <td><img src="{{i.logo_url}}" width="40" height="40" class="rounded-circle"></td>
                 <th scope="row">{{i.name}}</th>
                 <td>{{i.url}}</td>
                 <td>{{i.ratings}}</td>

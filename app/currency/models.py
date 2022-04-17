@@ -1,6 +1,7 @@
 from currency import model_choices as mch
 
 from django.db import models
+from django.templatetags.static import static
 
 
 class ContactUs(models.Model):
@@ -18,6 +19,12 @@ class Source(models.Model):
 
     def __str__(self):
         return self.name
+
+    def logo_url(self):
+        if self.logo:
+            return self.logo.url
+
+        return static('img/bank-logo.png')
 
 
 class Rate(models.Model):
