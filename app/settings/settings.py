@@ -154,3 +154,6 @@ AUTH_USER_MODEL = 'accounts.User'
 # Custom settings
 DOMAIN = 'localhost:8000'
 HTTP_SCHEMA = 'http'
+
+MEDIA_ROOT = BASE_DIR / '..' / 'static_content' / 'media'
+MEDIA_URL = '/media/'

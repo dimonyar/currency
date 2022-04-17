@@ -1,8 +1,11 @@
 {% extends 'base.html' %}
 {% block title %}My Profile{% endblock %}
 {% block content %}
-
-<form method="post">
+<div>{{ request.user.first_name }} {{ request.user.last_name }}</div>
+{% if request.user.avatar %}
+<img src="{{ request.user.avatar.url }}" width="150" height="150" class="rounded">
+{% endif %}
+<form method="post" enctype="multipart/form-data">
     {% csrf_token %}
     {{ form.as_p }}
     <button type="submit">Update Profile</button>

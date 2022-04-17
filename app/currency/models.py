@@ -14,6 +14,7 @@ class Source(models.Model):
     url = models.CharField(max_length=255)
     ratings = models.CharField(max_length=10, null=True, blank=True)
     social = models.CharField(max_length=255, null=True, blank=True)
+    logo = models.FileField(upload_to='bank_logo', default=None, null=True, blank=True)
 
     def __str__(self):
         return self.name
