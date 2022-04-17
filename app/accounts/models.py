@@ -2,6 +2,7 @@ import uuid
 
 from django.contrib.auth.models import AbstractUser
 from django.db import models
+from django.templatetags.static import static
 
 
 def upload_avatar(instance, filename: str) -> str:
@@ -20,3 +21,9 @@ class User(AbstractUser):
             self.username = str(uuid.uuid4())
 
         super().save(*args, **kwargs)
+
+    def avatar_url(self):
+        if self.avatar:
+            return self.avatar.url
+
+        return static('img/avatar-anon.png')

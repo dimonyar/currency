@@ -24,9 +24,9 @@
             </ul>
             <span class="ml-auto">
             {% if request.user.is_authenticated %}
-                {% if request.user.avatar %}
-                <img src="{{ request.user.avatar.url }}" width="30" height="30" class="rounded-circle">
-                {% endif %}
+
+                <img src="{{ request.user.avatar_url }}" width="30" height="30" class="rounded-circle">
+
                 <a href="{% url 'accounts:my-profile' %}" class="btn btn-outline-dark">My Profile</a>
                 <a href="{% url 'logout' %}" class="btn btn-outline-dark">Logout</a>
             {% else %}

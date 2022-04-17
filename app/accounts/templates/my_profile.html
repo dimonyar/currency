@@ -2,9 +2,9 @@
 {% block title %}My Profile{% endblock %}
 {% block content %}
 <div>{{ request.user.first_name }} {{ request.user.last_name }}</div>
-{% if request.user.avatar %}
-<img src="{{ request.user.avatar.url }}" width="150" height="150" class="rounded">
-{% endif %}
+
+<img src="{{ request.user.avatar_url }}" width="150" height="150" class="rounded">
+
 <form method="post" enctype="multipart/form-data">
     {% csrf_token %}
     {{ form.as_p }}
