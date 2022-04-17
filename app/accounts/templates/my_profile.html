@@ -1,18 +1,14 @@
 {% extends 'base.html' %}
+{% load crispy_forms_tags %}
 {% block title %}My Profile{% endblock %}
 {% block content %}
 <div>{{ request.user.first_name }} {{ request.user.last_name }}</div>
 
 <img src="{{ request.user.avatar_url }}" width="150" height="150" class="rounded">
 
-<form method="post" enctype="multipart/form-data">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <button type="submit">Update Profile</button>
-</form>
-
-<button onclick="location.href='{% url 'accounts:password_change' %}'">Change Password</button>
-
+{% crispy form %}
+<button type="submit" class="btn btn-primary">Update Profile</button>
+<button onclick="location.href='{% url 'accounts:password_change' %}'" class="btn btn-primary">Change Password</button>
 
 
 {% endblock content %}
