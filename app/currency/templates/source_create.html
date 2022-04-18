@@ -1,13 +1,10 @@
 {% extends 'base.html' %}
+{% load crispy_forms_tags %}
 {% block title %}Create source{% endblock %}
 {% block content %}
 
-<form method="post">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <button type="submit">Create source</button>
-</form>
-
+{% crispy form %}
+<button type="submit" class="btn btn-primary">Create source</button>
 
 
 {% endblock content %}

@@ -1,8 +1,10 @@
 from currency.forms import ContactusForm, RateForm, SourceForm
 from currency.models import ContactUs, Rate, Source
 
+from django.contrib import messages
 from django.contrib.auth.mixins import UserPassesTestMixin
 from django.core.mail import send_mail
+from django.shortcuts import redirect
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, DeleteView, DetailView, ListView, UpdateView
 
@@ -105,6 +107,10 @@ class RateUpdate(UserPassesTestMixin, UpdateView):
     def test_func(self):
         return self.request.user.is_superuser
 
+    def handle_no_permission(self):
+        messages.success(self.request, 'No access for this operation. Only superuser')
+        return redirect('/currency/rate/list')
+
 
 # Rate delete
 class RateDelete(UserPassesTestMixin, DeleteView):
@@ -114,6 +120,10 @@ class RateDelete(UserPassesTestMixin, DeleteView):
 
     def test_func(self):
         return self.request.user.is_superuser
+
+    def handle_no_permission(self):
+        messages.success(self.request, 'No access for this operation. Only superuser')
+        return redirect('/currency/rate/list')
 
 
 # Rate detail
