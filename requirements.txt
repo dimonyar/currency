@@ -3,6 +3,8 @@ django-crispy-forms
 django-debug-toolbar
 django-extensions
 
+celery
+
 ipython
 
 # flake8
