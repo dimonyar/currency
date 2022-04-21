@@ -1,3 +1,5 @@
+import datetime
+
 from accounts.models import User
 
 from celery import shared_task
@@ -42,6 +44,7 @@ def count_users():
 
 
 def user_list():
-    query = User.objects.filter(is_active=True)
+    query = User.objects.filter(is_active=True,
+                                date_joined__gte=(datetime.datetime.now() + datetime.timedelta(days=-7)))
     lst = [(i.first_name, i.last_name, i.email, i.date_joined.strftime("%m/%d/%Y")) for i in query]
     return '\n'.join(map(str, lst))

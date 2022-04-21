@@ -3,7 +3,9 @@
 {% block title %}Create source{% endblock %}
 {% block content %}
 
-{% crispy form %}
+<form method="post">
+    {% csrf_token %}
+    {{ form|crispy }}
 <button type="submit" class="btn btn-primary">Create rate</button>
 
 

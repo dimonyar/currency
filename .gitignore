@@ -129,7 +129,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-static_content
+static_content/
 
 .DS_Store
 .DS_Store?
