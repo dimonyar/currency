@@ -17,7 +17,6 @@
                 <th scope="col">logo</th>
                 <th scope="col">name</th>
                 <th scope="col">url</th>
-                <th scope="col">ratings</th>
                 <th scope="col">social</th>
             </tr>
             {%for i in source_list %}
@@ -25,7 +24,6 @@
                 <td><img src="{{i.logo_url}}" width="40" height="40" class="rounded-circle"></td>
                 <th scope="row">{{i.name}}</th>
                 <td>{{i.url}}</td>
-                <td>{{i.ratings}}</td>
                 <td>{{i.social}}</td>
                 <td>
                     <div class="dropdown">
