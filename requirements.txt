@@ -5,6 +5,8 @@ django-extensions
 
 celery
 
+requests
+
 ipython
 
 # flake8

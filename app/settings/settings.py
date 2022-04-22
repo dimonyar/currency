@@ -172,4 +172,8 @@ CELERY_BEAT_SCHEDULE = {
         'task': 'accounts.tasks.new_users',
         'schedule': crontab(minute='0', hour='9', day_of_week='mon'),
     },
+    'parse_pb': {
+        'task': 'currency.tasks.parse_privatbank',
+        'schedule': crontab(minute='*/3'),
+    },
 }
