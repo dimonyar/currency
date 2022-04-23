@@ -12,3 +12,4 @@ class SourceCodeName(models.IntegerChoices):
     PRIVATBANK = 1, 'PrivatBank'
     MONOBANK = 2, 'MonoBank'
     VKURSE = 3, 'vkurse.dp.ua'
+    OSCHADBANK = 4, 'OschadBank'

@@ -180,8 +180,12 @@ CELERY_BEAT_SCHEDULE = {
         'task': 'currency.tasks.parse_monobank',
         'schedule': crontab(minute='*/3'),
     },
-    'parse_vkurse_dp_ua': {
+    'parse_vkurse': {
         'task': 'currency.tasks.parse_vkurse',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_oschad': {
+        'task': 'currency.tasks.parse_oschadbank',
         'schedule': crontab(minute='*/3'),
     },
 }

@@ -152,5 +152,51 @@ def parse_vkurse():
 
 
 @shared_task
-def parse_pumb():
-    pass
+def parse_oschadbank():
+    url = 'https://www.oschadbank.ua/currency-rate'
+    response = requests.get(url)
+    response.raise_for_status()
+    src = response.text
+    available_currencies = {
+        'USD': mch.RateType.USD,
+        'EUR': mch.RateType.EUR,
+    }
+
+    base_currency_type = mch.RateType.UAH
+
+    try:
+        source = Source.objects.get(code_name=mch.SourceCodeName.OSCHADBANK)
+    except Source.DoesNotExist:
+        source = Source.objects.create(code_name=mch.SourceCodeName.OSCHADBANK, name='OschadBank', url=url)
+
+    soup = BeautifulSoup(src, "lxml")
+
+    header_currency = soup.find("div", class_="currency header__currency").find_all("div", class_="currency__item")
+
+    for div in header_currency:
+        item_name = div.find("span", class_="currency__item_name").string
+        if item_name not in available_currencies:
+            continue
+        currency_type = item_name
+
+        if not currency_type:
+            continue
+
+        values = div.find_all("span", class_="currency__item_value")
+
+        sale = round_decimal(values[1].text)
+        buy = round_decimal(values[0].text)
+
+        last_rate = Rate.objects.filter(source=source, type=currency_type, base_type=base_currency_type) \
+            .order_by('-created').first()
+
+        if (last_rate is None or
+                last_rate.sale != sale or
+                last_rate.buy != buy):
+            Rate.objects.create(
+                type=currency_type,
+                base_type=base_currency_type,
+                sale=sale,
+                buy=buy,
+                source=source,
+            )
