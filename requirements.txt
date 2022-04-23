@@ -6,6 +6,8 @@ django-extensions
 celery
 
 requests
+beautifulsoup4
+lxml
 
 ipython
 

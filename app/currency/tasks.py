@@ -1,5 +1,7 @@
 from decimal import Decimal
 
+from bs4 import BeautifulSoup
+
 from celery import shared_task
 
 from currency import model_choices as mch
@@ -147,3 +149,8 @@ def parse_vkurse():
                 buy=buy,
                 source=source,
             )
+
+
+@shared_task
+def parse_pumb():
+    pass
