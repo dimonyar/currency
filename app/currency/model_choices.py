@@ -14,3 +14,4 @@ class SourceCodeName(models.IntegerChoices):
     VKURSE = 3, 'vkurse.dp.ua'
     OSCHADBANK = 4, 'OschadBank'
     CREDIT_AGRICOLE = 5, 'Credit-Agricole'
+    MINFIN = 6, 'MinFin Avarage'

@@ -36,7 +36,7 @@ def parse_privatbank():
     for rate in rates:
         if rate['ccy'] not in available_currencies:
             continue
-        currency_type = rate['ccy']
+        currency_type = available_currencies.get(rate['ccy'])
 
         if not currency_type:
             continue
@@ -177,7 +177,7 @@ def parse_oschadbank():
         item_name = div.find("span", class_="currency__item_name").string
         if item_name not in available_currencies:
             continue
-        currency_type = item_name
+        currency_type = available_currencies.get(item_name)
 
         if not currency_type:
             continue
@@ -229,13 +229,66 @@ def parse_credit_agricole():
         div_list = item_div.find_all("div")
         if div_list[0].text not in available_currencies:
             continue
-        currency_type = div_list[0].text
+        currency_type = available_currencies.get(div_list[0].text)
 
         if not currency_type:
             continue
 
         sale = round_decimal(div_list[2].text.strip())
         buy = round_decimal(div_list[1].text.strip())
+
+        last_rate = Rate.objects.filter(source=source, type=currency_type) \
+            .order_by('-created').first()
+
+        if (last_rate is None or
+                last_rate.sale != sale or
+                last_rate.buy != buy):
+            Rate.objects.create(
+                type=currency_type,
+                base_type=base_currency_type,
+                sale=sale,
+                buy=buy,
+                source=source,
+            )
+
+
+@shared_task
+def parse_minfin_avarage():
+    """
+    Average rate for banks from the site minfin.com.ua
+    """
+    url = 'https://minfin.com.ua/currency/banks/'
+    response = requests.get(url)
+    response.raise_for_status()
+    src = response.text
+    available_currencies = {
+        'ДОЛЛАР': mch.RateType.USD,
+        'ЕВРО': mch.RateType.EUR,
+    }
+
+    base_currency_type = mch.RateType.UAH
+
+    try:
+        source = Source.objects.get(code_name=mch.SourceCodeName.MINFIN)
+    except Source.DoesNotExist:
+        source = Source.objects.create(code_name=mch.SourceCodeName.MINFIN,
+                                       name='MinFin Avarage', url=url)
+
+    soup = BeautifulSoup(src, "lxml")
+
+    table_content = soup.find("table", class_="table-response mfm-table mfcur-table-lg-banks mfcur-table-lg")
+    currency_list = table_content.find_next().find_next_sibling().find_all("tr")
+
+    for td_item in currency_list:
+        td_name = td_item.find("td", class_="mfcur-table-cur").text.strip()
+        if td_name not in available_currencies:
+            continue
+        currency_type = available_currencies.get(td_name)
+
+        values = td_item.find("td", class_="mfm-text-nowrap").text.strip()
+
+        sale = round_decimal(values[-6:])
+        buy = round_decimal(values[:6])
 
         last_rate = Rate.objects.filter(source=source, type=currency_type) \
             .order_by('-created').first()
