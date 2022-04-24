@@ -13,3 +13,4 @@ class SourceCodeName(models.IntegerChoices):
     MONOBANK = 2, 'MonoBank'
     VKURSE = 3, 'vkurse.dp.ua'
     OSCHADBANK = 4, 'OschadBank'
+    CREDIT_AGRICOLE = 5, 'Credit-Agricole'

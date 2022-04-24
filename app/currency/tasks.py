@@ -187,7 +187,57 @@ def parse_oschadbank():
         sale = round_decimal(values[1].text)
         buy = round_decimal(values[0].text)
 
-        last_rate = Rate.objects.filter(source=source, type=currency_type, base_type=base_currency_type) \
+        last_rate = Rate.objects.filter(source=source, type=currency_type) \
+            .order_by('-created').first()
+
+        if (last_rate is None or
+                last_rate.sale != sale or
+                last_rate.buy != buy):
+            Rate.objects.create(
+                type=currency_type,
+                base_type=base_currency_type,
+                sale=sale,
+                buy=buy,
+                source=source,
+            )
+
+
+@shared_task
+def parse_credit_agricole():
+    url = 'https://credit-agricole.ua/kurs-valyut'
+    response = requests.get(url)
+    response.raise_for_status()
+    src = response.text
+    available_currencies = {
+        'USD': mch.RateType.USD,
+        'EUR': mch.RateType.EUR,
+    }
+
+    base_currency_type = mch.RateType.UAH
+
+    try:
+        source = Source.objects.get(code_name=mch.SourceCodeName.CREDIT_AGRICOLE)
+    except Source.DoesNotExist:
+        source = Source.objects.create(code_name=mch.SourceCodeName.CREDIT_AGRICOLE,
+                                       name='Credit-Agricole', url=url)
+
+    soup = BeautifulSoup(src, "lxml")
+    table_content = soup.find("div", class_="exchange-rates-table")
+    currency_list = table_content.find_all("div", class_="currency")
+
+    for item_div in currency_list:
+        div_list = item_div.find_all("div")
+        if div_list[0].text not in available_currencies:
+            continue
+        currency_type = div_list[0].text
+
+        if not currency_type:
+            continue
+
+        sale = round_decimal(div_list[2].text.strip())
+        buy = round_decimal(div_list[1].text.strip())
+
+        last_rate = Rate.objects.filter(source=source, type=currency_type) \
             .order_by('-created').first()
 
         if (last_rate is None or

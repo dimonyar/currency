@@ -188,4 +188,8 @@ CELERY_BEAT_SCHEDULE = {
         'task': 'currency.tasks.parse_oschadbank',
         'schedule': crontab(minute='*/3'),
     },
+    'parse_cragricole': {
+        'task': 'currency.tasks.parse_credit_agricole',
+        'schedule': crontab(minute='*/3'),
+    },
 }
