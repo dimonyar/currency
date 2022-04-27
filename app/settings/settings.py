@@ -12,10 +12,11 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 import os
 from pathlib import Path
 
+from celery.schedules import crontab
+
 from django.urls import reverse_lazy
 
 import dotenv
-
 
 dotenv.load_dotenv('../env/.env')
 
@@ -148,7 +149,7 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = os.environ['EMAIL_HOST']
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = False
-EMAIL_PORT = 465
+EMAIL_PORT = os.environ['EMAIL_PORT']
 EMAIL_HOST_USER = os.environ['EMAIL_HOST_USER']
 EMAIL_HOST_PASSWORD = os.environ['EMAIL_HOST_PASSWORD']
 
@@ -162,3 +163,37 @@ HTTP_SCHEMA = 'http'
 
 MEDIA_ROOT = BASE_DIR / '..' / 'static_content' / 'media'
 MEDIA_URL = '/media/'
+
+CELERY_BROKER_URL = f'amqp://{os.environ["RABBITMQ_DEFAULT_USER"]}:' \
+                    f'{os.environ["RABBITMQ_DEFAULT_PASS"]}@' \
+                    f'{os.environ["RABBITMQ_URL"]}:{os.environ["RABBITMQ_PORT"]}//'
+CELERY_BEAT_SCHEDULE = {
+    'new_users': {
+        'task': 'accounts.tasks.new_users',
+        'schedule': crontab(minute='0', hour='9', day_of_week='mon'),
+    },
+    'parse_pb': {
+        'task': 'currency.tasks.parse_privatbank',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_mono': {
+        'task': 'currency.tasks.parse_monobank',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_vkurse': {
+        'task': 'currency.tasks.parse_vkurse',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_oschad': {
+        'task': 'currency.tasks.parse_oschadbank',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_cragricole': {
+        'task': 'currency.tasks.parse_credit_agricole',
+        'schedule': crontab(minute='*/3'),
+    },
+    'parse_minfin': {
+        'task': 'currency.tasks.parse_minfin_avarage',
+        'schedule': crontab(minute='*/3'),
+    },
+}

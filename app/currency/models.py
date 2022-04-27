@@ -11,9 +11,9 @@ class ContactUs(models.Model):
 
 
 class Source(models.Model):
-    name = models.CharField(max_length=64)
+    name = models.CharField(max_length=64, unique=True)
+    code_name = models.PositiveSmallIntegerField(choices=mch.SourceCodeName.choices, unique=True)
     url = models.CharField(max_length=255)
-    ratings = models.CharField(max_length=10, null=True, blank=True)
     social = models.CharField(max_length=255, null=True, blank=True)
     logo = models.FileField(upload_to='bank_logo', default=None, null=True, blank=True)
 
@@ -29,6 +29,7 @@ class Source(models.Model):
 
 class Rate(models.Model):
     type = models.CharField(max_length=5, choices=mch.RateType.choices)  # noqa: VNE003, A003
+    base_type = models.CharField(max_length=5, choices=mch.RateType.choices, default=mch.RateType.UAH)
     source = models.ForeignKey(Source, on_delete=models.CASCADE)
     created = models.DateTimeField(auto_now_add=True)
     buy = models.DecimalField(max_digits=10, decimal_places=2)

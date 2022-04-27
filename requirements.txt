@@ -3,6 +3,12 @@ django-crispy-forms
 django-debug-toolbar
 django-extensions
 
+celery
+
+requests
+beautifulsoup4
+lxml
+
 ipython
 
 # flake8

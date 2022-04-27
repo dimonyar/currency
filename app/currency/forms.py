@@ -12,10 +12,10 @@ class ContactusForm(forms.ModelForm):
 class SourceForm(forms.ModelForm):
     class Meta:
         model = Source
-        fields = ('name', 'url', 'ratings', 'social', 'logo')
+        fields = ('name', 'code_name', 'url', 'social', 'logo')
 
 
 class RateForm(forms.ModelForm):
     class Meta:
         model = Rate
-        fields = ('type', 'source', 'buy', 'sale')
+        fields = ('type', 'base_type', 'source', 'buy', 'sale')
