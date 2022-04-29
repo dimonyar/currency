@@ -1,15 +1,16 @@
+from currency.filters import RateFilter
 from currency.forms import ContactusForm, RateForm, SourceForm
 from currency.models import ContactUs, Rate, Source
-from currency.filters import RateFilter
 
 from django.contrib import messages
 from django.contrib.auth.mixins import UserPassesTestMixin
 from django.core.mail import send_mail
 from django.http.request import QueryDict
-from django_filters.views import FilterView
 from django.shortcuts import redirect
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, DeleteView, DetailView, ListView, UpdateView
+
+from django_filters.views import FilterView
 
 
 # ContactUs
