@@ -1,9 +1,11 @@
 from currency.forms import ContactusForm, RateForm, SourceForm
 from currency.models import ContactUs, Rate, Source
+from currency.filters import RateFilter
 
 from django.contrib import messages
 from django.contrib.auth.mixins import UserPassesTestMixin
 from django.core.mail import send_mail
+from django_filters.views import FilterView
 from django.shortcuts import redirect
 from django.urls import reverse_lazy
 from django.views.generic import CreateView, DeleteView, DetailView, ListView, UpdateView
@@ -84,10 +86,11 @@ class SourceDetail(DetailView):
 
 
 # Rate
-class RateList(ListView):
+class RateList(FilterView):
     queryset = Rate.objects.all().order_by('-id').select_related('source')
     template_name = 'rate_list.html'
     paginate_by = 5
+    filterset_class = RateFilter
 
 
 # Rate create
