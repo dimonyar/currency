@@ -87,6 +87,7 @@ class SourceDetail(DetailView):
 class RateList(ListView):
     queryset = Rate.objects.all().order_by('-id').select_related('source')
     template_name = 'rate_list.html'
+    paginate_by = 5
 
 
 # Rate create
