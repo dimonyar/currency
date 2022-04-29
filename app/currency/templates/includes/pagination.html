@@ -2,7 +2,7 @@
     <ul class="pagination justify-content-center">
         {% if page_obj.has_previous %}
         <li class="page-item">
-            <a class="page-link" href="?page={{ page_obj.previous_page_number }}">&laquo;</a>
+            <a class="page-link" href="?page={{ page_obj.previous_page_number }}&{{filter_param}}">&laquo;</a>
         </li>
         {% else %}
         <li class="page-item disabled">
@@ -16,21 +16,27 @@
             <span class="page-link">{{ i }}</span>
         </li>
         {% else %}
+
+        {% if i|add:"-3" <= page_obj.number and page_obj.number <= i|add:"3" %}
         <li class="page-item">
-            {% if i|add:"-3" <= page_obj.number and page_obj.number <= i|add:"3" %}
-
-            <a class="page-link" href="?page={{ i }}">{{ i }}</a>
-
-            {% elif i|divisibleby:"10" or i == page_obj.paginator.num_pages %}
-            <a class="page-link" href="?page={{ i }}">{{ i }}</a>
-            {% endif %}
+            <a class="page-link" href="?page={{ i }}&{{filter_param}}">{{ i }}</a>
         </li>
+
+        {% elif i|divisibleby:"10" or i == page_obj.paginator.num_pages %}
+        <li class="page-item">
+            <span> ... </span>
+        </li>
+        <li class="page-item">
+
+            <a class="page-link" href="?page={{ i }}&{{filter_param}}">{{ i }}</a></li>
+        {% endif %}
+
         {% endif %}
         {% endfor %}
 
         {% if page_obj.has_next %}
         <li class="page-item">
-            <a class="page-link" href="?page={{ page_obj.next_page_number }}">&raquo;</a>
+            <a class="page-link" href="?page={{ page_obj.next_page_number }}&{{filter_param}}">&raquo;</a>
         </li>
         {% else %}
         <li class="page-item disabled">
