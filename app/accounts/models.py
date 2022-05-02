@@ -15,6 +15,7 @@ class User(AbstractUser):
 
     email = models.EmailField('email address', unique=True)
     avatar = models.FileField(upload_to=upload_avatar, default=None, null=True, blank=True)
+    phone = models.CharField(max_length=30, null=True, blank=True)
 
     def save(self, *args, **kwargs):
         if not self.username:
