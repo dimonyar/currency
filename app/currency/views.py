@@ -1,10 +1,10 @@
 from currency.filters import RateFilter
 from currency.forms import ContactusForm, RateForm, SourceForm
 from currency.models import ContactUs, Rate, Source
+from currency.tasks import sendmail_new_сontactus
 
 from django.contrib import messages
 from django.contrib.auth.mixins import UserPassesTestMixin
-from django.core.mail import send_mail
 from django.http.request import QueryDict
 from django.shortcuts import redirect
 from django.urls import reverse_lazy
@@ -38,13 +38,8 @@ class ContactusCreate(CreateView):
         Message: {data['message']}
         '''
         from_email = data['email_from']
-        send_mail(
-            subject,
-            message_body,
-            from_email,
-            ['d.yaroshevsky@gmail.com'],
-            fail_silently=False,
-        )
+
+        sendmail_new_сontactus.delay(subject, message_body, from_email)
 
         return response
 

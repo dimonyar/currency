@@ -7,6 +7,8 @@ from celery import shared_task
 from currency import model_choices as mch
 from currency.models import Rate, Source
 
+from django.core.mail import send_mail
+
 import requests
 
 
@@ -303,3 +305,14 @@ def parse_minfin_avarage():
                 buy=buy,
                 source=source,
             )
+
+
+@shared_task
+def sendmail_new_сontactus(subject: str, message_body: str, from_email: str):
+    send_mail(
+        subject,
+        message_body,
+        from_email,
+        ['d.yaroshevsky@gmail.com'],
+        fail_silently=False,
+    )
