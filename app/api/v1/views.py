@@ -2,7 +2,7 @@ from api.v1.serializers import ContactusSerializer, SourceSerializer
 
 from currency.models import ContactUs, Source
 
-from rest_framework import generics
+from rest_framework import generics, viewsets
 
 
 class SourceView(generics.ListAPIView):
@@ -10,11 +10,6 @@ class SourceView(generics.ListAPIView):
     serializer_class = SourceSerializer
 
 
-class ContactusView(generics.ListCreateAPIView):
-    queryset = ContactUs.objects.all()
-    serializer_class = ContactusSerializer
-
-
-class ContactusDetailView(generics.RetrieveUpdateDestroyAPIView):
+class ContactusViewSet(viewsets.ModelViewSet):
     queryset = ContactUs.objects.all()
     serializer_class = ContactusSerializer
