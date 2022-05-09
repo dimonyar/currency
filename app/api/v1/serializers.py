@@ -1,4 +1,4 @@
-from currency.models import Source
+from currency.models import ContactUs, Source
 
 from rest_framework import serializers
 
@@ -11,4 +11,15 @@ class SourceSerializer(serializers.ModelSerializer):
             'name',
             'code_name',
             'social',
+        )
+
+
+class ContactusSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = ContactUs
+        fields = (
+            'id',
+            'email_from',
+            'subject',
+            'message',
         )
