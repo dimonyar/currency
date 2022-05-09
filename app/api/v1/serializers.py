@@ -1,6 +1,6 @@
-from rest_framework import serializers
-
 from currency.models import Source
+
+from rest_framework import serializers
 
 
 class SourceSerializer(serializers.ModelSerializer):
@@ -11,5 +11,4 @@ class SourceSerializer(serializers.ModelSerializer):
             'name',
             'code_name',
             'social',
-            'logo',
         )
