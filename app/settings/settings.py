@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'django_filters',
     'rest_framework',
+    'drf_yasg',
 
     'accounts',
     'currency',
