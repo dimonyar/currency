@@ -5,6 +5,7 @@ django-extensions
 django-filter
 djangorestframework
 drf-yasg
+djangorestframework-xml
 
 celery
 
