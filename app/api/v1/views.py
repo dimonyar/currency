@@ -1,6 +1,6 @@
-from api.v1.serializers import ContactusSerializer, SourceSerializer
+from api.v1.serializers import ContactusSerializer, RateSerializer, SourceSerializer
 
-from currency.models import ContactUs, Source
+from currency.models import ContactUs, Rate, Source
 
 from rest_framework import generics, viewsets
 from rest_framework.renderers import JSONRenderer
@@ -19,3 +19,8 @@ class ContactusViewSet(viewsets.ModelViewSet):
     queryset = ContactUs.objects.all()
     serializer_class = ContactusSerializer
     renderer_classes = (JSONRenderer, XMLRenderer, CSVRenderer)
+
+
+class RateViewSet(viewsets.ModelViewSet):
+    queryset = Rate.objects.all()
+    serializer_class = RateSerializer

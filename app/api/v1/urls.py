@@ -12,7 +12,8 @@ from rest_framework_simplejwt.views import (
 
 
 router = DefaultRouter()
-router.register('contactus', views.ContactusViewSet, basename='contactus')
+router.register('contactus', views.ContactusViewSet, basename='contactus'),
+router.register('rates', views.RateViewSet, basename='rate')
 
 urlpatterns = [
     path('sources/', views.SourceView.as_view(), name='sources'),
