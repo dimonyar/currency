@@ -1,3 +1,4 @@
+from api.v1.pagination import RatesPagination
 from api.v1.serializers import ContactusSerializer, RateSerializer, SourceSerializer
 
 from currency.models import ContactUs, Rate, Source
@@ -24,3 +25,4 @@ class ContactusViewSet(viewsets.ModelViewSet):
 class RateViewSet(viewsets.ModelViewSet):
     queryset = Rate.objects.all()
     serializer_class = RateSerializer
+    pagination_class = RatesPagination
