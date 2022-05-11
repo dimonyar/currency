@@ -36,9 +36,11 @@ class ContactusViewSet(viewsets.ModelViewSet):
     filter_backends = (
         filters.DjangoFilterBackend,
         rest_framework_filters.OrderingFilter,
+        rest_framework_filters.SearchFilter,
     )
     ordering_fields = ('email_from', 'subject')
     throttle_classes = [AnonCurrencyThrottle]
+    search_fields = ['=email_from', 'subject', 'message']
 
 
 class RateViewSet(viewsets.ModelViewSet):
