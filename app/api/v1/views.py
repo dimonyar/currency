@@ -6,6 +6,7 @@ from currency.models import ContactUs, Rate, Source
 
 from django_filters import rest_framework as filters
 
+from rest_framework import filters as rest_framework_filters
 from rest_framework import generics, viewsets
 from rest_framework.renderers import JSONRenderer
 
@@ -20,7 +21,9 @@ class SourceView(generics.ListAPIView):
     filterset_class = SourceFilter
     filter_backends = (
         filters.DjangoFilterBackend,
+        rest_framework_filters.OrderingFilter,
     )
+    ordering_fields = ('name',)
 
 
 class ContactusViewSet(viewsets.ModelViewSet):
@@ -30,7 +33,9 @@ class ContactusViewSet(viewsets.ModelViewSet):
     filterset_class = ContactusFilter
     filter_backends = (
         filters.DjangoFilterBackend,
+        rest_framework_filters.OrderingFilter,
     )
+    ordering_fields = ('email_from', 'subject')
 
 
 class RateViewSet(viewsets.ModelViewSet):
