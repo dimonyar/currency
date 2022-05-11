@@ -1,6 +1,7 @@
 from api.v1.filters import ContactusFilter, SourceFilter
 from api.v1.pagination import RatesPagination
 from api.v1.serializers import ContactusSerializer, RateSerializer, SourceSerializer
+from api.v1.throttles import AnonCurrencyThrottle
 
 from currency.models import ContactUs, Rate, Source
 
@@ -24,6 +25,7 @@ class SourceView(generics.ListAPIView):
         rest_framework_filters.OrderingFilter,
     )
     ordering_fields = ('name',)
+    throttle_classes = [AnonCurrencyThrottle]
 
 
 class ContactusViewSet(viewsets.ModelViewSet):
@@ -36,9 +38,11 @@ class ContactusViewSet(viewsets.ModelViewSet):
         rest_framework_filters.OrderingFilter,
     )
     ordering_fields = ('email_from', 'subject')
+    throttle_classes = [AnonCurrencyThrottle]
 
 
 class RateViewSet(viewsets.ModelViewSet):
     queryset = Rate.objects.all()
     serializer_class = RateSerializer
     pagination_class = RatesPagination
+    throttle_classes = [AnonCurrencyThrottle]
