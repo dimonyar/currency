@@ -3,6 +3,10 @@ django-crispy-forms
 django-debug-toolbar
 django-extensions
 django-filter
+djangorestframework
+drf-yasg
+djangorestframework-xml
+djangorestframework-csv
 
 celery
 

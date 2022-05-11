@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'crispy_forms',
     'django_filters',
+    'rest_framework',
+    'drf_yasg',
 
     'accounts',
     'currency',
