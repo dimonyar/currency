@@ -1,4 +1,4 @@
-from currency.models import ContactUs, Source
+from currency.models import ContactUs, Rate, Source
 from currency.tasks import sendmail_new_сontactus
 
 from rest_framework import serializers
@@ -31,3 +31,16 @@ class ContactusSerializer(serializers.ModelSerializer):
         subject = validated_data['subject']
         sendmail_new_сontactus.delay(subject, message_body, from_email)
         return ContactUs.objects.create(**validated_data)
+
+
+class RateSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Rate
+        fields = (
+            'id',
+            'type',
+            'source',
+            'created',
+            'buy',
+            'sale',
+        )

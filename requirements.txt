@@ -7,6 +7,7 @@ djangorestframework
 drf-yasg
 djangorestframework-xml
 djangorestframework-csv
+djangorestframework-simplejwt
 
 celery
 
