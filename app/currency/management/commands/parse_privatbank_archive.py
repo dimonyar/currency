@@ -5,18 +5,19 @@ from currency.models import Rate, Source
 from currency.tasks import round_decimal
 
 from django.core.management.base import BaseCommand
+from django.utils import timezone
 
 import requests
 
 
 class Command(BaseCommand):
-    help = 'Parse Privatbank archive rates' # noqa VNE003, A003
+    help = 'Parse Privatbank archive rates'  # noqa VNE003, A003
 
     def handle(self, *args, **options):
         base_url = 'https://api.privatbank.ua/p24api/exchange_rates'
 
-        end_date = datetime.now()
-        start_date = datetime.now() - timedelta(days=365 * 4)
+        end_date = datetime.now(tz=timezone.utc)
+        start_date = datetime.now(tz=timezone.utc) - timedelta(days=365 * 4)
         total_days = (end_date - start_date).days
 
         available_currencies = {
@@ -56,19 +57,19 @@ class Command(BaseCommand):
                 sale = round_decimal(rate['saleRate'])
                 buy = round_decimal(rate['purchaseRate'])
 
-                if Rate.objects.get(source=source,
-                                    type=currency_type,
-                                    base_type=base_currency_type,
-                                    sale=sale,
-                                    buy=buy,
-                                    created__date=current_day
-                                    ):
-                    continue
-
-                Rate.objects.create(
-                    type=currency_type,
-                    base_type=base_currency_type,
-                    sale=sale, buy=buy,
-                    source=source,
-                    created=current_day
-                )
+                try:
+                    Rate.objects.get(
+                        source=source,
+                        type=currency_type,
+                        base_type=base_currency_type,
+                        sale=sale, buy=buy,
+                        created__date=current_day
+                    )
+                except Rate.DoesNotExist:
+                    Rate.objects.create(
+                        type=currency_type,
+                        base_type=base_currency_type,
+                        sale=sale, buy=buy,
+                        source=source,
+                        created=current_day
+                    )
