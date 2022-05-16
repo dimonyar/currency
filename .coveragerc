@@ -1,0 +1,16 @@
+# .coveragerc to control coverage.py
+[run]
+branch = True
+omit = */tests/*
+       */migrations/*
+       */management/*
+       */asgi.py
+       */wsgi.py
+       */settings*.py
+       */app/manage.py
+
+[report]
+precision = 4
+
+[html]
+directory = .pytest_cache/coverage

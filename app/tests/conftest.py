@@ -20,4 +20,4 @@ def load_fixtures(django_db_setup, django_db_blocker):   # noqa: PT004
             'user.json',
         )
         for fixture in fixtures:
-            call_command('loaddata', f'tests/fixtures/{fixture}')   # noqa: PT004
+            call_command('loaddata', f'app/tests/fixtures/{fixture}')   # noqa: PT004
