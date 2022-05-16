@@ -23,6 +23,9 @@ pytest:
 urls:
 	$(manage_py) show_urls
 
+flake8:
+	cd app && flake8
+
 #export PATH=$PATH:/usr/local/opt/rabbitmq/sbin
 #
 #Если потребуется перезагрузкить кролика:
