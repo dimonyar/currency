@@ -18,9 +18,10 @@ beat:
 	cd app && celery -A settings beat -l info
 
 pytest:
-	pytest ./app/tests --cov=app --cov-report html
+	pytest ./app/tests --cov=app --cov-report html -vv
 
-
+urls:
+	$(manage_py) show_urls
 
 #export PATH=$PATH:/usr/local/opt/rabbitmq/sbin
 #
