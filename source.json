@@ -1,0 +1,35 @@
+[
+  {
+    "model": "currency.source",
+    "pk": 4,
+    "fields": {
+      "name": "MonoBank",
+      "code_name": 2,
+      "url": "https://api.monobank.ua/bank/currency",
+      "social": "https://twitter.com/monobankua",
+      "logo": "bank_logo/1619788053.webp"
+    }
+  },
+  {
+    "model": "currency.source",
+    "pk": 5,
+    "fields": {
+      "name": "PrivatBank",
+      "code_name": 1,
+      "url": "https://api.privatbank.ua/p24api/pubinfo?exchange&json&coursid=11",
+      "social": "https://twitter.com/privatbankua",
+      "logo": "bank_logo/privat-2.webp"
+    }
+  },
+  {
+    "model": "currency.source",
+    "pk": 10,
+    "fields": {
+      "name": "OschadBank",
+      "code_name": 4,
+      "url": "https://www.oschadbank.ua/currency-rate",
+      "social": "https://twitter.com/ua_oschadbank",
+      "logo": "bank_logo/1486534561.webp"
+    }
+  }
+]

@@ -34,3 +34,6 @@ flake8-import-order
 pep8-naming==0.12.1
 
 python-dotenv==0.20.0
+
+pytest
+pytest-django

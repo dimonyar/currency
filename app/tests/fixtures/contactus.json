@@ -1,0 +1,20 @@
+[
+  {
+    "model": "currency.contactus",
+    "pk": 1,
+    "fields": {
+      "email_from": "d.yaroshevsky@gmail.com",
+      "subject": "Test subject",
+      "message": "Test Message"
+    }
+  },
+  {
+    "model": "currency.contactus",
+    "pk": 21,
+    "fields": {
+      "email_from": "task_api@gmail.com",
+      "subject": "API created task",
+      "message": "Use send mail new contactus"
+    }
+  }
+]
