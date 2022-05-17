@@ -17,7 +17,8 @@ class Command(BaseCommand):
         base_url = 'https://api.privatbank.ua/p24api/exchange_rates'
 
         end_date = datetime.now(tz=timezone.utc)
-        start_date = datetime.now(tz=timezone.utc) - timedelta(days=380)
+        start_date = datetime.now(tz=timezone.utc) - timedelta(
+            days=365 * 4)  # The archive stores data for the last 4 years
         total_days = (end_date - start_date).days
 
         available_currencies = {
