@@ -17,7 +17,14 @@ worker:
 beat:
 	cd app && celery -A settings beat -l info
 
+pytest:
+	pytest ./app/tests --cov=app --cov-report html -vv
 
+urls:
+	$(manage_py) show_urls
+
+flake8:
+	cd app && flake8
 
 #export PATH=$PATH:/usr/local/opt/rabbitmq/sbin
 #
