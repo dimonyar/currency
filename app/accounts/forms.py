@@ -15,10 +15,11 @@ class SignUpForm(forms.ModelForm):
     def clean(self):
         cleaned_data = super().clean()
 
-        if cleaned_data['password'] != cleaned_data['confirm']:
-            raise forms.ValidationError('Passwords should match!')
+        if cleaned_data:
+            if cleaned_data['password'] != cleaned_data['confirm']:
+                raise forms.ValidationError('Passwords should match!')
 
-        return cleaned_data
+            return cleaned_data
 
     def save(self, commit=True):
         cleaned_data = self.cleaned_data

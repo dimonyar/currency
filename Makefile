@@ -35,3 +35,6 @@ flake8:
 #sudo rabbitmqctl stop
 
 #rabbitmqctl start_app
+
+# fixture
+# python app/manage.py dumpdata currency.rate > rate.json

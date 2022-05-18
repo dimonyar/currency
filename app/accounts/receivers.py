@@ -6,5 +6,5 @@ from django.dispatch import receiver
 
 @receiver(pre_save, sender=User)
 def pre_save_user_phone_change(sender, instance, **kwargs):
-    if not instance.phone.isdigit():
+    if instance.phone and not instance.phone.isdigit():
         instance.phone = ''.join(i for i in instance.phone if i.isdigit())
