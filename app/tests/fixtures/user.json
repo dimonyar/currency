@@ -4,17 +4,17 @@
     "pk": 1,
     "fields": {
       "password": "pbkdf2_sha256$320000$JCXER0nzia3KK1W526It30$Fg5cMW22/sAHdIQtsUKCUWesHMlAWxtPDyiyKhc8FSM=",
-      "last_login": "2022-05-10T06:33:35.254Z",
+      "last_login": "2022-05-10T06:33:35+03:00",
       "is_superuser": false,
       "username": "8624db39-abe0-4cd6-87a4-dec538a8b4d2",
       "first_name": "Dmitry",
       "last_name": "Yaroshevsky",
       "is_staff": false,
       "is_active": true,
-      "date_joined": "2022-04-29T13:35:41.582Z",
+      "date_joined": "2022-04-29T13:35:41+03:00",
       "email": "dy@rteam.net.ua",
       "avatar": "",
-      "phone": "380672567173",
+      "phone": "380672567178",
       "groups": [],
       "user_permissions": []
     }

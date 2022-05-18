@@ -1,0 +1,4634 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name='dmca-site-verification' content='OUZjbXN5S0ZpV0ZJT0ZSUWRJZUdlQT090' />
+<script>
+    var dataLayer = dataLayer || [];
+    
+  </script>
+<script>
+    var googletag = googletag || { };
+    googletag.cmd = googletag.cmd || [];
+  </script>
+<script>
+    WebFontConfig = {
+      google: { families: [ 'Raleway:500,600,700:cyrillic', 'Roboto:400,500,700', 'Open+Sans:300,400,600,700' ] }
+    };
+    (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+    })(document);
+  </script>
+<link rel="alternate" hreflang="ru" href="https://minfin.com.ua/currency/banks/" />
+<link rel="alternate" hreflang="uk" href="https://minfin.com.ua/ua/currency/banks/" />
+<link rel="canonical" href="https://minfin.com.ua/currency/banks/" />
+<title>Курс валют в банках Украины – Минфин</title>
+<meta name="description" content="Актуальный курс валют в банках Украины ✔ Где самый выгодный курс валют на сегодня ❓  Сравнивайте курсы всех банков">
+<meta name="keywords" content="курс валют в банках украины, курс валют в банках, курсы валют в банках">
+<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name="interkassa-verification" content="7c2f1912dab425951320ed4ec33dddf5" />
+<meta name="msapplication-TileColor" content="#da532c" />
+<meta name="theme-color" content="#ffffff" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://minfin.com.ua/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://minfin.com.ua/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://minfin.com.ua/favicon-16x16.png" />
+<link rel="mask-icon" href="https://minfin.com.ua/safari-pinned-tab.svg" color="#5bbad5" />
+<link rel="manifest" href="https://minfin.com.ua/manifest.json" />
+<link rel="stylesheet" href="/dist/css/redesign/common-fdbdecb472.css">
+<link rel="stylesheet" href="https://themes.minfin.com.ua/asset/style/minfin202104.d575aaf6.css">
+<link rel="stylesheet" href="/dist/css/redesign/content/currency/main-4312812688.css">
+<link rel="stylesheet" href="/dist/js/jquery/datetimepicker/jquery-75856582fa.datetimepicker.mf.css">
+<!--[if lt IE 9]>
+  <script src="/js/main/html5shiv.js"></script>
+  <script src="/js/main/html5-3.6-respond-1.1.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/2014.01.31/classList.min.js"></script>
+  <![endif]-->
+<!--[if lt IE 8]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/2.0.8/es5-shim.min.js"></script>
+  <![endif]-->
+<!--[if IE]>
+  <style>
+    .mfz-mobile-nav-dropdown > li {
+      width: 19%;
+      padding: 0 10px;
+      margin-bottom: 10px;
+      display: inline-block;
+      vertical-align: top;
+    }
+  </style>
+  <![endif]-->
+</head>
+<body data-platform="Windows" data-browser="Chrome" data-version="101" data-url="minfin.com.ua" data-is-mobile="" data-page="new" data-layout="responsive" data-template="twoColumns" data-branding-inner="main.mfz-page-wrap" data-gtm-code="ontheio" data-gtm-page-url="https://minfin.com.ua/currency/banks/" data-gtm-page-url-canonical="https://minfin.com.ua/currency/banks/" data-gtm-page-type="default" data-gtm-page-title="Курс валют в банках Украины – Минфин" data-gtm-page-language="ru">
+<div data-bn-slot="bn-slot-branding">
+</div>
+<header class="header mfz-container"><div class="ads-top" data-bn-slot="bn-slot-top"></div><div class="android-ios-banner-block"><div class="alert-app" id="alert-app"><button type="button" class="close-app js-close-app" onclick="document.getElementById('alert-app').style.display = 'none';"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="9" viewBox="0 0 10 9" fill="none"><path d="M9 0.5L1 8.5M9 8.5L1 0.5" stroke="#BBBBC0" stroke-linecap="round" /></svg></button><div class="logo-app"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19" fill="none"><path d="M14.1674 0L10.033 12.6362L5.78022 0H3.94631L0 18.7438H3.34482L5.45794 8.65473L9.43153 19H10.6618L14.6081 8.65473L16.6279 18.7438H20L15.9999 0H14.1674Z" fill="#DF3115" /></svg></div><p>Минфин - Курсы валют Украины</p><a class="download-app">Установить</a></div></div><div class="header-top d-flex"><div class="header-wrapper d-flex"><div class="header-top__bonus"><span>%</span><a href="https://minfin.com.ua/bonus/">Бонус от Минфина</a></div><a class="logo" href="https://minfin.com.ua/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-logo-header-ru"></use></svg></a><div class="header-top__profile"><a data-lang-switcher class="lang-switcher" %%langswitch-attr%%>українська</a><div class="auth"></div></div></div></div><div class="header-bottom"><div class="d-flex" style="flex-direction: column;"><div class="header-bottom__top"><div class="hamburger"><div data-hamburger class="hamburger__click"></div><div class="bar__one"></div><div class="bar__second"></div><div class="bar__third"></div></div><div class="menu d-flex"><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/currency/">Валюта</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/mb/" target="_self">Межбанк</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/banks/" target="_self">Курсы в банках</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/auction/" target="_self">Валютный аукцион</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/nbu/" target="_self">НБУ</a></div><div class="submenu__item"><a class="submenu__link" href="https://new.minfin.com.ua/auction/currency/" target="_self">Мобильное приложение</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/converter/" target="_self">Конвертер</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/crypto/" target="_self">Криптовалюта</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/discuss/?r=c19a19048252878eaf9d105acc829736" target="_self">Форум</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/developers/api/" target="_self">Курсы по API</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/contracts/" target="_self">Для договоров</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/cards/" target="_self">Visa/Mastercard</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/forex/" target="_self">Форекс</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/informers/" target="_self">Курсы для сайтов</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/currency/poll/" target="_self">Прогноз курса</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/deposits/">Депозиты</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/bonus/" target="_self">Бонус к депозитам</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/bonus/confirm/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposconfirm" target="_self">Подтверждение депозита</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/stats/" target="_self">Обзор ставок</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/faq/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposfaq" target="_self">Вопросы и ответы</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/conditions/" target="_self">Условия акции</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/aboutpromocode/" target="_self">Промокод</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/winners/" target="_self">Победители акции</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/deposits/bonus/stories/" target="_self">Истории участников</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/credits/">Кредиты</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/credits/online/" target="_self">Кредиты онлайн</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/cards/" target="_self">Карты</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/credits/mortgage/" target="_self">Ипотека</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/credits/top/" target="_self">Рейтинг МФО</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/credits/company/" target="_self">Микрофинансовые организации</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/banks/">Банки</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://new.minfin.com.ua/banks/online/" target="_self">Интернет-банки</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/top/" target="_self">Народный рейтинг</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/rating/" target="_self">Рейтинг устойчивости</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/ranking/" target="_self">Рэнкинг НБУ</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/forum/banks/" target="_self">Отзывы</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/banks/deals/" target="_self">Акции</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/business/rko/" target="_self">Счета для бизнеса</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/ukrainian-banks-contacts/" target="_self">Контакты банков</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/insurance/">Страхование</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://new.minfin.com.ua/kasko" target="_self">КАСКО</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/rating/kasko/2020-09-30/" target="_self">Рейтинг КАСКО</a></div><div class="submenu__item"><a class="submenu__link" href="https://new.minfin.com.ua/ru/osago/" target="_self">ОСАГО</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/rating/osago/" target="_self">Рейтинг ОСАГО</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/rating/medicine/" target="_self">Медицина</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/rating/tourist/" target="_self">Туризм</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/forum/" target="_self">Отзывы</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/all/" target="_self">Страховые компании</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/insurance/deals/" target="_self">Акции</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/realty/">Недвижимость</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/newbuildings/" target="_self">Новостройки</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/rating/2021/1-2-quarter/" target="_self">Рейтинг застройщиков</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/rating-kiev-region/2021/1-2-quarter/" target="_self">Рейтинг застройщиков пригорода</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/news/" target="_self">Новости недвижимости</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/all/" target="_self">Застройщики</a></div><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/realty/special-offers/" target="_self">Акции застройщиков</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://minfin.com.ua/invest/">Инвестиции</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://minfin.com.ua/invest/brokers/" target="_self">Каталог брокеров</a></div></div></div><div class="menu__item"><a class="menu__link" href="https://index.minfin.com.ua/">Индексы</a><div class="submenu"><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/markets/fuel/" target="_self">Цены на АЗС</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/economy/index/inflation/" target="_self">Индекс инфляции</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/labour/salary/min/" target="_self">Минимальная зарплата</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/labour/salary/average/" target="_self">Средняя зарплата</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/labour/wagemin/" target="_self">Прожиточный минимум</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/economy/gdp/" target="_self">ВВП Украины</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/labour/incometax/" target="_self">НДФЛ</a></div><div class="submenu__item"><a class="submenu__link" href="https://index.minfin.com.ua/tariff/" target="_self">Коммунальные тарифы</a></div></div></div></div></div><div class="header-submenu"><div class="submenu-container"><ul class="nav o-hidden"><li class="more-menu hidden"><div data-submenu class="dropdown-toggle">
+Еще
+<span class="chevron"></span></div><ul class="dropdown-menu"></ul></li></ul></div></div><div class="popover-menu"><div class="popover-menu__wrapper"><div class="popover-menu__item"><label class="popover-menu__label">Валюта</label><div class="popover-menu__links"><a href="https://minfin.com.ua/currency/">Валюта</a><a href="https://minfin.com.ua/currency/mb/" target="_self">Межбанк</a><a href="https://minfin.com.ua/currency/banks/" target="_self">Курсы в банках</a><a href="https://minfin.com.ua/currency/auction/" target="_self">Валютный аукцион</a><a href="https://minfin.com.ua/currency/nbu/" target="_self">НБУ</a><a href="https://new.minfin.com.ua/auction/currency/" target="_self">Мобильное приложение</a><a href="https://minfin.com.ua/currency/converter/" target="_self">Конвертер</a><a href="https://minfin.com.ua/currency/crypto/" target="_self">Криптовалюта</a><a href="https://minfin.com.ua/currency/discuss/?r=c19a19048252878eaf9d105acc829736" target="_self">Форум</a><a href="https://minfin.com.ua/developers/api/" target="_self">Курсы по API</a><a href="https://minfin.com.ua/currency/contracts/" target="_self">Для договоров</a><a href="https://minfin.com.ua/currency/cards/" target="_self">Visa/Mastercard</a><a href="https://minfin.com.ua/forex/" target="_self">Форекс</a><a href="https://minfin.com.ua/currency/informers/" target="_self">Курсы для сайтов</a><a href="https://minfin.com.ua/currency/poll/" target="_self">Прогноз курса</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Депозиты</label><div class="popover-menu__links"><a href="https://minfin.com.ua/deposits/">Депозиты</a><a href="https://minfin.com.ua/deposits/bonus/" target="_self">Бонус к депозитам</a><a href="https://minfin.com.ua/deposits/bonus/confirm/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposconfirm" target="_self">Подтверждение депозита</a><a href="https://minfin.com.ua/deposits/stats/" target="_self">Обзор ставок</a><a href="https://minfin.com.ua/deposits/faq/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposfaq" target="_self">Вопросы и ответы</a><a href="https://minfin.com.ua/deposits/conditions/" target="_self">Условия акции</a><a href="https://minfin.com.ua/deposits/aboutpromocode/" target="_self">Промокод</a><a href="https://minfin.com.ua/deposits/winners/" target="_self">Победители акции</a><a href="https://minfin.com.ua/deposits/bonus/stories/" target="_self">Истории участников</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Кредиты</label><div class="popover-menu__links"><a href="https://minfin.com.ua/credits/">Кредиты</a><a href="https://minfin.com.ua/credits/online/" target="_self">Кредиты онлайн</a><a href="https://minfin.com.ua/cards/" target="_self">Карты</a><a href="https://minfin.com.ua/banks/credits/mortgage/" target="_self">Ипотека</a><a href="https://minfin.com.ua/credits/top/" target="_self">Рейтинг МФО</a><a href="https://minfin.com.ua/credits/company/" target="_self">Микрофинансовые организации</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Банки</label><div class="popover-menu__links"><a href="https://minfin.com.ua/banks/">Банки</a><a href="https://new.minfin.com.ua/banks/online/" target="_self">Интернет-банки</a><a href="https://minfin.com.ua/banks/top/" target="_self">Народный рейтинг</a><a href="https://minfin.com.ua/banks/rating/" target="_self">Рейтинг устойчивости</a><a href="https://minfin.com.ua/banks/ranking/" target="_self">Рэнкинг НБУ</a><a href="https://minfin.com.ua/banks/forum/banks/" target="_self">Отзывы</a><a href="https://minfin.com.ua/banks/deals/" target="_self">Акции</a><a href="https://minfin.com.ua/business/rko/" target="_self">Счета для бизнеса</a><a href="https://minfin.com.ua/ukrainian-banks-contacts/" target="_self">Контакты банков</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Страхование</label><div class="popover-menu__links"><a href="https://minfin.com.ua/insurance/">Страхование</a><a href="https://new.minfin.com.ua/kasko" target="_self">КАСКО</a><a href="https://minfin.com.ua/insurance/rating/kasko/2020-09-30/" target="_self">Рейтинг КАСКО</a><a href="https://new.minfin.com.ua/ru/osago/" target="_self">ОСАГО</a><a href="https://minfin.com.ua/insurance/rating/osago/" target="_self">Рейтинг ОСАГО</a><a href="https://minfin.com.ua/insurance/rating/medicine/" target="_self">Медицина</a><a href="https://minfin.com.ua/insurance/rating/tourist/" target="_self">Туризм</a><a href="https://minfin.com.ua/insurance/forum/" target="_self">Отзывы</a><a href="https://minfin.com.ua/insurance/all/" target="_self">Страховые компании</a><a href="https://minfin.com.ua/insurance/deals/" target="_self">Акции</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Недвижимость</label><div class="popover-menu__links"><a href="https://minfin.com.ua/realty/">Недвижимость</a><a href="https://minfin.com.ua/realty/newbuildings/" target="_self">Новостройки</a><a href="https://minfin.com.ua/realty/rating/2021/1-2-quarter/" target="_self">Рейтинг застройщиков</a><a href="https://minfin.com.ua/realty/rating-kiev-region/2021/1-2-quarter/" target="_self">Рейтинг застройщиков пригорода</a><a href="https://minfin.com.ua/realty/news/" target="_self">Новости недвижимости</a><a href="https://minfin.com.ua/realty/all/" target="_self">Застройщики</a><a href="https://minfin.com.ua/realty/special-offers/" target="_self">Акции застройщиков</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Телеком</label><div class="popover-menu__links"><a href="https://minfin.com.ua/telecom/">Телеком</a><a href="https://minfin.com.ua/telecom/tarifs/kievstar" target="_self">Тарифы Киевстар</a><a href="https://minfin.com.ua/telecom/tarifs/mts" target="_self">МТС</a><a href="https://minfin.com.ua/telecom/tarifs/vodafone" target="_self">Vodafone</a><a href="https://minfin.com.ua/telecom/tarifs_lifecell" target="_self">Лайфселл</a><a href="https://minfin.com.ua/telecom/obzor" target="_self">Обзоры телефонов</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Инвестиции</label><div class="popover-menu__links"><a href="https://minfin.com.ua/invest/">Инвестиции</a><a href="https://minfin.com.ua/invest/brokers/" target="_self">Каталог брокеров</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Индексы</label><div class="popover-menu__links"><a href="https://index.minfin.com.ua/">Индексы</a><a href="https://index.minfin.com.ua/markets/fuel/" target="_self">Цены на АЗС</a><a href="https://index.minfin.com.ua/economy/index/inflation/" target="_self">Индекс инфляции</a><a href="https://index.minfin.com.ua/labour/salary/min/" target="_self">Минимальная зарплата</a><a href="https://index.minfin.com.ua/labour/salary/average/" target="_self">Средняя зарплата</a><a href="https://index.minfin.com.ua/labour/wagemin/" target="_self">Прожиточный минимум</a><a href="https://index.minfin.com.ua/economy/gdp/" target="_self">ВВП Украины</a><a href="https://index.minfin.com.ua/labour/incometax/" target="_self">НДФЛ</a><a href="https://index.minfin.com.ua/tariff/" target="_self">Коммунальные тарифы</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Бонус от Минфина</label><div class="popover-menu__links"><a href="https://minfin.com.ua/bonus/">Бонус от Минфина</a><a href="https://minfin.com.ua/bonus/" target="_self">Бонус от Минфина</a></div></div><div class="popover-menu__item"><label class="popover-menu__label">Спецпроекты</label><div class="popover-menu__links"><a href="https://new.minfin.com.ua/special-projects/?mpl=mainpage&amp;mpr=project&amp;mcr=special">Спецпроекты</a><a href="https://new.minfin.com.ua/promo_longreads/?mpl=menu&amp;mpr=project&amp;mcr=promo_longreads" target="_self">Рекламные лонгриды</a><a href="" target="_self"></a></div></div></div></div></div></div><div class="header-mobile"><a class="logo-mobile" href="https://minfin.com.ua/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-logo-header-ru"></use></svg></a><div id="hamburger-mobile" class="hamburger"><div data-mobile-hamburger class="hamburger__click"></div><div class="bar__one"></div><div class="bar__second"></div><div class="bar__third"></div></div><div class="menu-mobile"><div class="menu-mobile__wrapper"><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Валюта</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/currency/">Валюта</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/mb/" target="_self">Межбанк</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/banks/" target="_self">Курсы в банках</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/auction/" target="_self">Валютный аукцион</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/nbu/" target="_self">НБУ</a><a class="menu-mobile__link" href="https://new.minfin.com.ua/auction/currency/" target="_self">Мобильное приложение</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/converter/" target="_self">Конвертер</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/crypto/" target="_self">Криптовалюта</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/discuss/?r=c19a19048252878eaf9d105acc829736" target="_self">Форум</a><a class="menu-mobile__link" href="https://minfin.com.ua/developers/api/" target="_self">Курсы по API</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/contracts/" target="_self">Для договоров</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/cards/" target="_self">Visa/Mastercard</a><a class="menu-mobile__link" href="https://minfin.com.ua/forex/" target="_self">Форекс</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/informers/" target="_self">Курсы для сайтов</a><a class="menu-mobile__link" href="https://minfin.com.ua/currency/poll/" target="_self">Прогноз курса</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Депозиты</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/">Депозиты</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/bonus/" target="_self">Бонус к депозитам</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/bonus/confirm/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposconfirm" target="_self">Подтверждение депозита</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/stats/" target="_self">Обзор ставок</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/faq/?mpr=Deposits&amp;mpl=mainmenu&amp;mcr=deposfaq" target="_self">Вопросы и ответы</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/conditions/" target="_self">Условия акции</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/aboutpromocode/" target="_self">Промокод</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/winners/" target="_self">Победители акции</a><a class="menu-mobile__link" href="https://minfin.com.ua/deposits/bonus/stories/" target="_self">Истории участников</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Кредиты</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/credits/">Кредиты</a><a class="menu-mobile__link" href="https://minfin.com.ua/credits/online/" target="_self">Кредиты онлайн</a><a class="menu-mobile__link" href="https://minfin.com.ua/cards/" target="_self">Карты</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/credits/mortgage/" target="_self">Ипотека</a><a class="menu-mobile__link" href="https://minfin.com.ua/credits/top/" target="_self">Рейтинг МФО</a><a class="menu-mobile__link" href="https://minfin.com.ua/credits/company/" target="_self">Микрофинансовые организации</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Банки</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/banks/">Банки</a><a class="menu-mobile__link" href="https://new.minfin.com.ua/banks/online/" target="_self">Интернет-банки</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/top/" target="_self">Народный рейтинг</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/rating/" target="_self">Рейтинг устойчивости</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/ranking/" target="_self">Рэнкинг НБУ</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/forum/banks/" target="_self">Отзывы</a><a class="menu-mobile__link" href="https://minfin.com.ua/banks/deals/" target="_self">Акции</a><a class="menu-mobile__link" href="https://minfin.com.ua/business/rko/" target="_self">Счета для бизнеса</a><a class="menu-mobile__link" href="https://minfin.com.ua/ukrainian-banks-contacts/" target="_self">Контакты банков</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Страхование</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/">Страхование</a><a class="menu-mobile__link" href="https://new.minfin.com.ua/kasko" target="_self">КАСКО</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/rating/kasko/2020-09-30/" target="_self">Рейтинг КАСКО</a><a class="menu-mobile__link" href="https://new.minfin.com.ua/ru/osago/" target="_self">ОСАГО</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/rating/osago/" target="_self">Рейтинг ОСАГО</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/rating/medicine/" target="_self">Медицина</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/rating/tourist/" target="_self">Туризм</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/forum/" target="_self">Отзывы</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/all/" target="_self">Страховые компании</a><a class="menu-mobile__link" href="https://minfin.com.ua/insurance/deals/" target="_self">Акции</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Недвижимость</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/realty/">Недвижимость</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/newbuildings/" target="_self">Новостройки</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/rating/2021/1-2-quarter/" target="_self">Рейтинг застройщиков</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/rating-kiev-region/2021/1-2-quarter/" target="_self">Рейтинг застройщиков пригорода</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/news/" target="_self">Новости недвижимости</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/all/" target="_self">Застройщики</a><a class="menu-mobile__link" href="https://minfin.com.ua/realty/special-offers/" target="_self">Акции застройщиков</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Инвестиции</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://minfin.com.ua/invest/">Инвестиции</a><a class="menu-mobile__link" href="https://minfin.com.ua/invest/brokers/" target="_self">Каталог брокеров</a></div></div><div class="menu-mobile__item"><div class="menu-mobile__btn"><span class="p-event-none">Индексы</span><span class="chevron p-event-none"></span></div><div class="menu-mobile__list"><a class="menu-mobile__link" href="https://index.minfin.com.ua/">Индексы</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/markets/fuel/" target="_self">Цены на АЗС</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/economy/index/inflation/" target="_self">Индекс инфляции</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/labour/salary/min/" target="_self">Минимальная зарплата</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/labour/salary/average/" target="_self">Средняя зарплата</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/labour/wagemin/" target="_self">Прожиточный минимум</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/economy/gdp/" target="_self">ВВП Украины</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/labour/incometax/" target="_self">НДФЛ</a><a class="menu-mobile__link" href="https://index.minfin.com.ua/tariff/" target="_self">Коммунальные тарифы</a></div></div></div><div class="mobile-user"></div><div class="mobile-auth"><a href="https://minfin.com.ua/login/?r=1618928331" class="mobile-auth__btn">Вход</a><a class="mobile-auth__btn">Регистрация</a></div><div><p class="mobile-lang-switcher">Сменить язык на <a class="mobile-lang-switcher__link" data-lang-switcher %%langswitch-attr%%>українська</a></p></div></div></div><div data-outsideclick-mobile class="click-outside"></div></header>
+<main class="mfz-page-wrap mfz-section">
+<div class="mfz-container">
+
+<div class="mfz-content-wrapper">
+<div class="mfz-col-content">
+<div class="container clearfix">
+<script type="application/ld+json">
+    {
+    "@context":"https://schema.org",
+    "@type":"WebPage",
+    "name":"Курс валют в банках Украины – Минфин",
+    "description": "Актуальный курс валют в банках Украины ✔ Где самый выгодный курс валют на сегодня ❓  Сравнивайте курсы всех банков",
+    "mainEntity": {
+        "@type": "ItemList",
+        "name": "Курс валют в банках Украины",
+         "itemListElement": [
+         
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"USD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "31.935",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"USD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "32.180",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"EUR",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "33.000",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"EUR",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "33.450",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"RUB",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.335",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"RUB",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.385",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"PLN",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "6.800",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"PLN",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "7.130",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CHF",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "29.405",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CHF",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "32.030",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"GBP",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "37.210",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"GBP",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "39.220",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"AUD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "20.260",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"AUD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "22.270",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"BYN",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "12.500",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"BYN",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "15.000",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CAD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "22.640",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CAD",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "24.740",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CNY",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "3.000",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CNY",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "4.000",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CZK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "1.270",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"CZK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "1.343",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"DKK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "4.100",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"DKK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "4.500",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"HUF",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.079",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"HUF",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.087",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"ILS",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "6.500",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"ILS",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "7.500",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"JPY",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.226",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"JPY",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "0.248",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"NOK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "2.990",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"NOK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "3.280",
+              "priceCurrency": "UAH"
+              }
+          },
+        
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"SEK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс покупки",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "2.910",
+              "priceCurrency": "UAH"
+              }
+          },
+          {
+            "@type": "ExchangeRateSpecification",
+            "currency":"SEK",
+            "name":"Средний курс валюты в банках",
+            "description":"Курс продажи",
+            "currentExchangeRate":{
+              "@type": "UnitPriceSpecification",
+              "price": "3.190",
+              "priceCurrency": "UAH"
+              }
+          }
+         ]}
+    }
+</script>
+
+<section class="mfm-header currency-banks">
+<div class="container">
+<div class="row">
+<div class="sorting--parent col-lg-4 col-md-8 col-sm-8 col-title">
+<div class="mfm-header--head">
+<h2 class="top-head">Курс валют в банках Украины на сегодня</h2>
+<h1 class="bottom-head">Курс валют в банках Украины</h1>
+</div>
+</div>
+<div class="sorting--parent col-sm-8 col-md-8 col-lg-4 col-data">
+<div class="row">
+<div class="sorting--date col-sm-8 col-md-4 col-lg-4">
+<div class="mfm-iputs-group mfcur-city-select mfm-header--chose-city">
+<input class="mfm-header--select js-mfSelect-city" type="text" list="cookies" placeholder="Выбрать город" type="hidden" style="display:none; visibility:hidden;">
+<p class="mfm-header--select-trigger js-mfSelect-city-trigger">
+<i class="icon-converter icon-placeholder"></i>
+Выбрать город
+</p>
+<input class="mfm-header--select js-mfSelect-city" type="hidden">
+
+<div class="mfSelect-wrap js-city-mfSelect" style="display: none;">
+<input type="text" class="mfSelect-search-input" placeholder="Выбрать город" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" role="textbox" oncontextmenu="return false">
+<div class="mfSelect-lists-scroll-view">
+<div class="mfSelect-lists-container">
+<div class="mfSelect-list-item" data-href="/currency/banks/">
+<span class="mfSelect-col1">Вся Украина</span>
+</div>
+<div class="mfSelect-list-inactive">
+<strong>Крупные города</strong>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kiev/">
+<span class="mfSelect-col1">
+Киев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dnepropetrovsk/">
+<span class="mfSelect-col1">
+Днепр (Днепропетровск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kharkov/">
+<span class="mfSelect-col1">
+Харьков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zaporozhye/">
+<span class="mfSelect-col1">
+Запорожье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/odessa/">
+<span class="mfSelect-col1">
+Одесса
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lvov/">
+<span class="mfSelect-col1">
+Львов
+</span>
+</div>
+<div class="mfSelect-list-inactive">
+<strong>Другие города</strong>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/avdeevka/">
+<span class="mfSelect-col1">
+Авдеевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/akimovka/">
+<span class="mfSelect-col1">
+Акимовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/aleksandrija/">
+<span class="mfSelect-col1">
+Александрия
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/aleksandrovka/">
+<span class="mfSelect-col1">
+Александровка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/alexandrovka/">
+<span class="mfSelect-col1">
+Александровка (Кировоградская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/aleksandrovsk/">
+<span class="mfSelect-col1">
+Александровск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/cjurupinsk/">
+<span class="mfSelect-col1">
+Алёшки (Цюрупинск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/almaznaja/">
+<span class="mfSelect-col1">
+Алмазная
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/amvrosievka/">
+<span class="mfSelect-col1">
+Амвросиевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ananev/">
+<span class="mfSelect-col1">
+Ананьев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/andrushjovka/">
+<span class="mfSelect-col1">
+Андрушёвка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/apostolovo/">
+<span class="mfSelect-col1">
+Апостолово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/arbuzinka/">
+<span class="mfSelect-col1">
+Арбузинка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/arciz/">
+<span class="mfSelect-col1">
+Арциз
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ahtyrka/">
+<span class="mfSelect-col1">
+Ахтырка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/balakleja/">
+<span class="mfSelect-col1">
+Балаклея
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/balta/">
+<span class="mfSelect-col1">
+Балта
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bar/">
+<span class="mfSelect-col1">
+Бар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/baranovka/">
+<span class="mfSelect-col1">
+Барановка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/barvenkovo/">
+<span class="mfSelect-col1">
+Барвенково
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/baryshevka/">
+<span class="mfSelect-col1">
+Барышевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bahmach/">
+<span class="mfSelect-col1">
+Бахмач
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/artjomovsk/">
+<span class="mfSelect-col1">
+Бахмут (Артёмовск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bashtanka/">
+<span class="mfSelect-col1">
+Баштанка
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/belajacerkov/">
+<span class="mfSelect-col1">
+Белая Церковь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belgorod-dnestrovskij/">
+<span class="mfSelect-col1">
+Белгород-Днестровский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belz/">
+<span class="mfSelect-col1">
+Белз
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belovodsk/">
+<span class="mfSelect-col1">
+Беловодск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belogore/">
+<span class="mfSelect-col1">
+Белогорье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belozerka/">
+<span class="mfSelect-col1">
+Белозерка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belozerskoye/">
+<span class="mfSelect-col1">
+Белозерское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/belokurakino/">
+<span class="mfSelect-col1">
+Белокуракино
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/belopole/">
+<span class="mfSelect-col1">
+Белополье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/beljaevka/">
+<span class="mfSelect-col1">
+Беляевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berdichev/">
+<span class="mfSelect-col1">
+Бердичев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berdjansk/">
+<span class="mfSelect-col1">
+Бердянск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/beregovo/">
+<span class="mfSelect-col1">
+Берегово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berezhany/">
+<span class="mfSelect-col1">
+Бережаны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berezanka/">
+<span class="mfSelect-col1">
+Березанка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berezan/">
+<span class="mfSelect-col1">
+Березань
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/berezne/">
+<span class="mfSelect-col1">
+Березне
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bereznegovatoe/">
+<span class="mfSelect-col1">
+Березнеговатое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berezno/">
+<span class="mfSelect-col1">
+Березно
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berezovka/">
+<span class="mfSelect-col1">
+Березовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berestechko/">
+<span class="mfSelect-col1">
+Берестечко
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/berislav/">
+<span class="mfSelect-col1">
+Берислав
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bershad/">
+<span class="mfSelect-col1">
+Бершадь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kujbyshevo/">
+<span class="mfSelect-col1">
+Бильмак (Куйбышево)
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/uljanovka/">
+<span class="mfSelect-col1">
+Благовещенское (Ульяновка)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bliznjuki/">
+<span class="mfSelect-col1">
+Близнюки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bobrinec/">
+<span class="mfSelect-col1">
+Бобринец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bobrka/">
+<span class="mfSelect-col1">
+Бобрка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bobrovica/">
+<span class="mfSelect-col1">
+Бобровица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bogoduhov/">
+<span class="mfSelect-col1">
+Богодухов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bogorodchany/">
+<span class="mfSelect-col1">
+Богородчаны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/boguslav/">
+<span class="mfSelect-col1">
+Богуслав
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/telmanovo/">
+<span class="mfSelect-col1">
+Бойковское (Тельманово)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vahrushevo/">
+<span class="mfSelect-col1">
+Боково-Хрустальное (Вахрушево)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bolgrad/">
+<span class="mfSelect-col1">
+Болград
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bolehov/">
+<span class="mfSelect-col1">
+Болехов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borzna/">
+<span class="mfSelect-col1">
+Борзна
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borislav/">
+<span class="mfSelect-col1">
+Борислав
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borispol/">
+<span class="mfSelect-col1">
+Борисполь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borovaja/">
+<span class="mfSelect-col1">
+Боровая
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/borodjanka/">
+<span class="mfSelect-col1">
+Бородянка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borshhjov/">
+<span class="mfSelect-col1">
+Борщёв
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bojarka/">
+<span class="mfSelect-col1">
+Боярка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bratskoe/">
+<span class="mfSelect-col1">
+Братское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/brovary/">
+<span class="mfSelect-col1">
+Бровары
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/brody/">
+<span class="mfSelect-col1">
+Броды
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/broshniv-osada/">
+<span class="mfSelect-col1">
+Брошнев-Осада
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/brusilov/">
+<span class="mfSelect-col1">
+Брусилов
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/burshtyn/">
+<span class="mfSelect-col1">
+Бурштын
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/buryn/">
+<span class="mfSelect-col1">
+Бурынь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/busk/">
+<span class="mfSelect-col1">
+Буск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/bucha/">
+<span class="mfSelect-col1">
+Буча
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/buchach/">
+<span class="mfSelect-col1">
+Бучач
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/valki/">
+<span class="mfSelect-col1">
+Валки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kuznecovsk/">
+<span class="mfSelect-col1">
+Вараш (Кузнецовск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/varva/">
+<span class="mfSelect-col1">
+Варва
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vasilevka/">
+<span class="mfSelect-col1">
+Васильевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vasilkov/">
+<span class="mfSelect-col1">
+Васильков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vasilkovka/">
+<span class="mfSelect-col1">
+Васильковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vatutino/">
+<span class="mfSelect-col1">
+Ватутино
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vashkovcy/">
+<span class="mfSelect-col1">
+Вашковцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajaaleksandrovka/">
+<span class="mfSelect-col1">
+Великая Александровка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajabagachka/">
+<span class="mfSelect-col1">
+Великая Багачка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajabelozerka/">
+<span class="mfSelect-col1">
+Великая Белозерка
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/velikajalepetiha/">
+<span class="mfSelect-col1">
+Великая Лепетиха
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajamihajlovka/">
+<span class="mfSelect-col1">
+Великая Михайловка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajanovoselka/">
+<span class="mfSelect-col1">
+Великая Новоселка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikajapisarevka/">
+<span class="mfSelect-col1">
+Великая Писаревка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikiemosty/">
+<span class="mfSelect-col1">
+Великие Мосты
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikijbereznyj/">
+<span class="mfSelect-col1">
+Великий Березный
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/velikijburluk/">
+<span class="mfSelect-col1">
+Великий Бурлук
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/verhnedneprovsk/">
+<span class="mfSelect-col1">
+Верхнеднепровск
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/verhnijrogachik/">
+<span class="mfSelect-col1">
+Верхний Рогачик
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/verhovina/">
+<span class="mfSelect-col1">
+Верховина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/veselinovo/">
+<span class="mfSelect-col1">
+Веселиново
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/veseloe/">
+<span class="mfSelect-col1">
+Веселое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vizhnica/">
+<span class="mfSelect-col1">
+Вижница
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vinnitsa/">
+<span class="mfSelect-col1">
+Винница
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vinogradov/">
+<span class="mfSelect-col1">
+Виноградов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vinkovcy/">
+<span class="mfSelect-col1">
+Виньковцы
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/vishnjovoe/">
+<span class="mfSelect-col1">
+Вишнёвое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vladimir-volynskij/">
+<span class="mfSelect-col1">
+Владимир-Волынский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vladimirec/">
+<span class="mfSelect-col1">
+Владимирец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chervonopartizansk/">
+<span class="mfSelect-col1">
+Вознесеновка (Червонопартизанск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/voznesensk/">
+<span class="mfSelect-col1">
+Вознесенск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volnovaha/">
+<span class="mfSelect-col1">
+Волноваха
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volovec/">
+<span class="mfSelect-col1">
+Воловец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volodarka/">
+<span class="mfSelect-col1">
+Володарка
+</span>
+ </div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volochisk/">
+<span class="mfSelect-col1">
+Волочиск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volchansk/">
+<span class="mfSelect-col1">
+Волчанск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volnogorsk/">
+<span class="mfSelect-col1">
+Вольногорск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volnjansk/">
+<span class="mfSelect-col1">
+Вольнянск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vorzel/">
+<span class="mfSelect-col1">
+Ворзель
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vradievka/">
+<span class="mfSelect-col1">
+Врадиевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vysokopole/">
+<span class="mfSelect-col1">
+Высокополье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/vyshgorod/">
+<span class="mfSelect-col1">
+Вышгород
+</span>
+ </div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gadjach/">
+<span class="mfSelect-col1">
+Гадяч
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gajvoron/">
+<span class="mfSelect-col1">
+Гайворон
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gajsin/">
+<span class="mfSelect-col1">
+Гайсин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/galich/">
+<span class="mfSelect-col1">
+Галич
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/genichesk/">
+<span class="mfSelect-col1">
+Геническ
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gerca/">
+<span class="mfSelect-col1">
+Герца
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/glinjany/">
+<span class="mfSelect-col1">
+Глиняны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/globino/">
+<span class="mfSelect-col1">
+Глобино
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/gluhov/">
+<span class="mfSelect-col1">
+Глухов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/glybokaja/">
+<span class="mfSelect-col1">
+Глыбокая
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/golajapristan/">
+<span class="mfSelect-col1">
+Голая Пристань
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/golovanevsk/">
+<span class="mfSelect-col1">
+Голованевск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/komsomolsk/">
+<span class="mfSelect-col1">
+Горишние Плавни (Комсомольск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gornoe/">
+<span class="mfSelect-col1">
+Горное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gornostaevka/">
+<span class="mfSelect-col1">
+Горностаевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gorodenka/">
+<span class="mfSelect-col1">
+Городенка
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/gorodishhe/">
+<span class="mfSelect-col1">
+Городище
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gorodnja/">
+<span class="mfSelect-col1">
+Городня
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gorodock/">
+<span class="mfSelect-col1">
+Городок (Львовская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gorodok/">
+<span class="mfSelect-col1">
+Городок (Хмельницкая область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gorohov/">
+<span class="mfSelect-col1">
+Горохов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/goshha/">
+<span class="mfSelect-col1">
+Гоща
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/grebjonka/">
+<span class="mfSelect-col1">
+Гребёнка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/guljajpole/">
+<span class="mfSelect-col1">
+Гуляйполе
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gusjatin/">
+<span class="mfSelect-col1">
+Гусятин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dvurechnaja/">
+<span class="mfSelect-col1">
+Двуречная
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/demidovka/">
+<span class="mfSelect-col1">
+Демидовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/derazhnja/">
+<span class="mfSelect-col1">
+Деражня
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dergachi/">
+<span class="mfSelect-col1">
+Дергачи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/desna/">
+<span class="mfSelect-col1">
+Десна
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dikanka/">
+<span class="mfSelect-col1">
+Диканька
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dneprorudnoe/">
+<span class="mfSelect-col1">
+Днепрорудное
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/dobrovelichkova/">
+<span class="mfSelect-col1">
+Добровеличковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dobromil/">
+<span class="mfSelect-col1">
+Добромиль
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dobropole/">
+<span class="mfSelect-col1">
+Доброполье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kominternovskoe/">
+<span class="mfSelect-col1">
+Доброслав (Коминтерновское)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dobrotvor/">
+<span class="mfSelect-col1">
+Добротвор
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sverdlovsk/">
+<span class="mfSelect-col1">
+Должанск (Свердловск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dolina/">
+<span class="mfSelect-col1">
+Долина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dolinskaja/">
+<span class="mfSelect-col1">
+Долинская
+</span>
+ </div>
+<div class="mfSelect-list-item" data-href="/currency/banks/domanevka/">
+<span class="mfSelect-col1">
+Доманевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/donetsk/">
+<span class="mfSelect-col1">
+Донецк
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/drabov/">
+<span class="mfSelect-col1">
+Драбов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/drogobych/">
+<span class="mfSelect-col1">
+Дрогобыч
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/druzhkovka/">
+<span class="mfSelect-col1">
+Дружковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dubljany/">
+<span class="mfSelect-col1">
+Дубляны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dubno/">
+<span class="mfSelect-col1">
+Дубно
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dubrovica/">
+<span class="mfSelect-col1">
+Дубровица
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/dunaevcy/">
+<span class="mfSelect-col1">
+Дунаевцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/elanec/">
+<span class="mfSelect-col1">
+Еланец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/emilchino/">
+<span class="mfSelect-col1">
+Емильчино
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zhashkov/">
+<span class="mfSelect-col1">
+Жашков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zhjoltyevody/">
+<span class="mfSelect-col1">
+Жёлтые Воды
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zhidachov/">
+<span class="mfSelect-col1">
+Жидачов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zhitomir/">
+<span class="mfSelect-col1">
+Житомир
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zhmerinka/">
+<span class="mfSelect-col1">
+Жмеринка
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/zhovtnevyj/">
+<span class="mfSelect-col1">
+Жовтневый
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zholkva/">
+<span class="mfSelect-col1">
+Жолква
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chervonozavodskoe/">
+<span class="mfSelect-col1">
+Заводское (Червонозаводское)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zaleshhiki/">
+<span class="mfSelect-col1">
+Залещики
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zarechnoe/">
+<span class="mfSelect-col1">
+Заречное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zastavna/">
+<span class="mfSelect-col1">
+Заставна
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zachepilovka/">
+<span class="mfSelect-col1">
+Зачепиловка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zbarazh/">
+<span class="mfSelect-col1">
+Збараж
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/zborov/">
+<span class="mfSelect-col1">
+Зборов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zvenigorodka/">
+<span class="mfSelect-col1">
+Звенигородка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zgurovka/">
+<span class="mfSelect-col1">
+Згуровка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zdolbunov/">
+<span class="mfSelect-col1">
+Здолбунов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zenkov/">
+<span class="mfSelect-col1">
+Зеньков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zimogore/">
+<span class="mfSelect-col1">
+Зимогорье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zmiev/">
+<span class="mfSelect-col1">
+Змиев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/znamenka/">
+<span class="mfSelect-col1">
+Знаменка
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/zolotoe/">
+<span class="mfSelect-col1">
+Золотое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zolotonosha/">
+<span class="mfSelect-col1">
+Золотоноша
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zolochev/">
+<span class="mfSelect-col1">
+Золочев (Львовская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zolotchev/">
+<span class="mfSelect-col1">
+Золочев (Харьковская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zorinsk/">
+<span class="mfSelect-col1">
+Зоринск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/zugrjes/">
+<span class="mfSelect-col1">
+Зугрэс
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ivanichi/">
+<span class="mfSelect-col1">
+Иваничи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ivankov/">
+<span class="mfSelect-col1">
+Иванков
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/ivano-frankovsk/">
+<span class="mfSelect-col1">
+Ивано-Франковск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ivanivka/">
+<span class="mfSelect-col1">
+Ивановка (Одесская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ivanovka/">
+<span class="mfSelect-col1">
+Ивановка (Херсонская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/izmail/">
+<span class="mfSelect-col1">
+Измаил
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/izjum/">
+<span class="mfSelect-col1">
+Изюм
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/izjaslav/">
+<span class="mfSelect-col1">
+Изяслав
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ilincy/">
+<span class="mfSelect-col1">
+Ильинцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/irpen/">
+<span class="mfSelect-col1">
+Ирпень
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/irshava/">
+<span class="mfSelect-col1">
+Иршава
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ichnja/">
+<span class="mfSelect-col1">
+Ичня
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kagarlyk/">
+<span class="mfSelect-col1">
+Кагарлык
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/stahanov/">
+<span class="mfSelect-col1">
+Кадиевка (Стаханов)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kazanka/">
+<span class="mfSelect-col1">
+Казанка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kazatin/">
+<span class="mfSelect-col1">
+Казатин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kalanchak/">
+<span class="mfSelect-col1">
+Каланчак
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kalinovka/">
+<span class="mfSelect-col1">
+Калиновка
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/kalush/">
+<span class="mfSelect-col1">
+Калуш
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kamenec-podolskij/">
+<span class="mfSelect-col1">
+Каменец-Подольский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kamenka/">
+<span class="mfSelect-col1">
+Каменка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kamenka-bugskaja/">
+<span class="mfSelect-col1">
+Каменка-Бугская
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kamenka-dneprovskaja/">
+<span class="mfSelect-col1">
+Каменка-Днепровская
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dneprodzerzhinsk/">
+<span class="mfSelect-col1">
+Каменское (Днепродзержинск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kamen-kashirskij/">
+<span class="mfSelect-col1">
+Камень-Каширский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kanev/">
+<span class="mfSelect-col1">
+Канев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/karlovka/">
+<span class="mfSelect-col1">
+Карловка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/katerinopol/">
+<span class="mfSelect-col1">
+Катеринополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kahovka/">
+<span class="mfSelect-col1">
+Каховка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kegichevka/">
+<span class="mfSelect-col1">
+Кегичевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kelmency/">
+<span class="mfSelect-col1">
+Кельменцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kivercy/">
+<span class="mfSelect-col1">
+Киверцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kilija/">
+<span class="mfSelect-col1">
+Килия
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kicman/">
+<span class="mfSelect-col1">
+Кицмань
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/kobeljaki/">
+<span class="mfSelect-col1">
+Кобеляки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kovel/">
+<span class="mfSelect-col1">
+Ковель
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kodyma/">
+<span class="mfSelect-col1">
+Кодыма
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kozelec/">
+<span class="mfSelect-col1">
+Козелец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kozelshhina/">
+<span class="mfSelect-col1">
+Козельщина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kozova/">
+<span class="mfSelect-col1">
+Козова
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kolomak/">
+<span class="mfSelect-col1">
+Коломак
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kolomyja/">
+<span class="mfSelect-col1">
+Коломыя
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/kompanievka/">
+<span class="mfSelect-col1">
+Компаниевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/konotop/">
+<span class="mfSelect-col1">
+Конотоп
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/konstantinovka/">
+<span class="mfSelect-col1">
+Константиновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/korec/">
+<span class="mfSelect-col1">
+Корец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/korop/">
+<span class="mfSelect-col1">
+Короп
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/korosten/">
+<span class="mfSelect-col1">
+Коростень
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/korostyshev/">
+<span class="mfSelect-col1">
+Коростышев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/korsun-shevchenkovskij/">
+<span class="mfSelect-col1">
+Корсунь-Шевченковский
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/korjukovka/">
+<span class="mfSelect-col1">
+Корюковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kosov/">
+<span class="mfSelect-col1">
+Косов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kostopol/">
+<span class="mfSelect-col1">
+Костополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kotelva/">
+<span class="mfSelect-col1">
+Котельва
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kramatorsk/">
+<span class="mfSelect-col1">
+Краматорск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasilov/">
+<span class="mfSelect-col1">
+Красилов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasnograd/">
+<span class="mfSelect-col1">
+Красноград
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasnokutsk/">
+<span class="mfSelect-col1">
+Краснокутск
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/krasnopole/">
+<span class="mfSelect-col1">
+Краснополье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasnyeokny/">
+<span class="mfSelect-col1">
+Красные Окны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasjatichi/">
+<span class="mfSelect-col1">
+Красятичи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kremenec/">
+<span class="mfSelect-col1">
+Кременец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kreminna/">
+<span class="mfSelect-col1">
+Кременная
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kremenchug/">
+<span class="mfSelect-col1">
+Кременчуг
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krivoeozero/">
+<span class="mfSelect-col1">
+Кривое Озеро
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krivoyrog/">
+<span class="mfSelect-col1">
+Кривой Рог
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/krinichki/">
+<span class="mfSelect-col1">
+Кринички
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krolevec/">
+<span class="mfSelect-col1">
+Кролевец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kirovograd/">
+<span class="mfSelect-col1">
+Кропивницкий (Кировоград)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kryzhopol/">
+<span class="mfSelect-col1">
+Крыжополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kulikovka/">
+<span class="mfSelect-col1">
+Куликовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kupjansk/">
+<span class="mfSelect-col1">
+Купянск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kurakhove/">
+<span class="mfSelect-col1">
+Курахово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ladyzhin/">
+<span class="mfSelect-col1">
+Ладыжин
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/lanovcy/">
+<span class="mfSelect-col1">
+Лановцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lebedin/">
+<span class="mfSelect-col1">
+Лебедин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/letichev/">
+<span class="mfSelect-col1">
+Летичев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasnyjliman/">
+<span class="mfSelect-col1">
+Лиман (Красный Лиман)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lipovajadolina/">
+<span class="mfSelect-col1">
+Липовая Долина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lipovec/">
+<span class="mfSelect-col1">
+Липовец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lisichansk/">
+<span class="mfSelect-col1">
+Лисичанск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/litin/">
+<span class="mfSelect-col1">
+Литин
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/lozovaja/">
+<span class="mfSelect-col1">
+Лозовая
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lokachi/">
+<span class="mfSelect-col1">
+Локачи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lohvica/">
+<span class="mfSelect-col1">
+Лохвица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lubny/">
+<span class="mfSelect-col1">
+Лубны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lugansk/">
+<span class="mfSelect-col1">
+Луганск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/luginy/">
+<span class="mfSelect-col1">
+Лугины
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lutsk/">
+<span class="mfSelect-col1">
+Луцк
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/lysjanka/">
+<span class="mfSelect-col1">
+Лысянка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ljubar/">
+<span class="mfSelect-col1">
+Любар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ljubashevka/">
+<span class="mfSelect-col1">
+Любашевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ljubeshov/">
+<span class="mfSelect-col1">
+Любешов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ljuboml/">
+<span class="mfSelect-col1">
+Любомль
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ljubotin/">
+<span class="mfSelect-col1">
+Люботин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/magdalinovka/">
+<span class="mfSelect-col1">
+Магдалиновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/makarov/">
+<span class="mfSelect-col1">
+Макаров
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/malajaviska/">
+<span class="mfSelect-col1">
+Малая Виска
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/malin/">
+<span class="mfSelect-col1">
+Малин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mangush/">
+<span class="mfSelect-col1">
+Мангуш
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/manevichi/">
+<span class="mfSelect-col1">
+Маневичи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mankovka/">
+<span class="mfSelect-col1">
+Маньковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/marganec/">
+<span class="mfSelect-col1">
+Марганец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mariupol/">
+<span class="mfSelect-col1">
+Мариуполь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/markovka/">
+<span class="mfSelect-col1">
+Марковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/marinka/">
+<span class="mfSelect-col1">
+Марьинка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mashevka/">
+ <span class="mfSelect-col1">
+Машевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mezhgore/">
+<span class="mfSelect-col1">
+Межгорье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mezhevaja/">
+<span class="mfSelect-col1">
+Межевая
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/melitopol/">
+<span class="mfSelect-col1">
+Мелитополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/melovoe/">
+<span class="mfSelect-col1">
+Меловое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mena/">
+<span class="mfSelect-col1">
+Мена
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/merefa/">
+<span class="mfSelect-col1">
+Мерефа
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mirgorod/">
+<span class="mfSelect-col1">
+Миргород
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dimitrov/">
+<span class="mfSelect-col1">
+
+Мирноград (Димитров)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mironovka/">
+<span class="mfSelect-col1">
+Мироновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/miusinsk/">
+<span class="mfSelect-col1">
+Миусинск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mihajlovka/">
+<span class="mfSelect-col1">
+Михайловка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mlinov/">
+<span class="mfSelect-col1">
+Млинов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mogiljov-podolskij/">
+<span class="mfSelect-col1">
+Могилёв-Подольский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/molochansk/">
+<span class="mfSelect-col1">
+Молочанск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/monastyriska/">
+<span class="mfSelect-col1">
+Монастыриска
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/monastyrishhe/">
+<span class="mfSelect-col1">
+Монастырище
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/morshin/">
+<span class="mfSelect-col1">
+Моршин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mostiska/">
+<span class="mfSelect-col1">
+Мостиска
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/mukachevo/">
+<span class="mfSelect-col1">
+Мукачево
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/murovanyekurilovcy/">
+<span class="mfSelect-col1">
+Мурованые Куриловцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nadvornaja/">
+<span class="mfSelect-col1">
+Надворная
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/narodichi/">
+<span class="mfSelect-col1">
+Народичи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nedrigajlov/">
+<span class="mfSelect-col1">
+Недригайлов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nezhin/">
+<span class="mfSelect-col1">
+Нежин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nemirov/">
+<span class="mfSelect-col1">
+Немиров
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/neteshin/">
+<span class="mfSelect-col1">
+Нетешин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nizhnieserogozy/">
+<span class="mfSelect-col1">
+Нижние Серогозы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nikolaev/">
+<span class="mfSelect-col1">
+Николаев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nickolaev/">
+<span class="mfSelect-col1">
+Николаев (Львовская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nikolaevka/">
+<span class="mfSelect-col1">
+Николаевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volodarskoe/">
+<span class="mfSelect-col1">
+Никольское (Володарское)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nikopol/">
+<span class="mfSelect-col1">
+Никополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novajavodolaga/">
+<span class="mfSelect-col1">
+Новая Водолага
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novajakahovka/">
+<span class="mfSelect-col1">
+Новая Каховка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novajaodessa/">
+<span class="mfSelect-col1">
+Новая Одесса
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novajaushica/">
+<span class="mfSelect-col1">
+Новая Ушица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novgorod-severskij/">
+<span class="mfSelect-col1">
+Новгород-Северский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novgorodka/">
+<span class="mfSelect-col1">
+Новгородка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoazovsk/">
+<span class="mfSelect-col1">
+Новоазовск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoajdar/">
+<span class="mfSelect-col1">
+Новоайдар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoarhangelsk/">
+<span class="mfSelect-col1">
+Новоархангельск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novovolynsk/">
+<span class="mfSelect-col1">
+Нововолынск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novovoroncovka/">
+<span class="mfSelect-col1">
+Нововоронцовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novograd-volynskij/">
+<span class="mfSelect-col1">
+Новоград-Волынский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novogrodovka/">
+<span class="mfSelect-col1">
+Новогродовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novodnestrovsk/">
+<span class="mfSelect-col1">
+Новоднестровск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novodruzhesk/">
+<span class="mfSelect-col1">
+Новодружеск
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/novomirgorod/">
+<span class="mfSelect-col1">
+Новомиргород
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novomoskovsk/">
+<span class="mfSelect-col1">
+Новомосковск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novonikolaevka/">
+<span class="mfSelect-col1">
+Новониколаевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novopskov/">
+<span class="mfSelect-col1">
+Новопсков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoselica/">
+<span class="mfSelect-col1">
+Новоселица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novotroickoe/">
+<span class="mfSelect-col1">
+Новотроицкое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoukrainka/">
+<span class="mfSelect-col1">
+Новоукраинка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novoyavorovsk/">
+<span class="mfSelect-col1">
+Новояворовск
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/novyesanzhary/">
+<span class="mfSelect-col1">
+Новые Санжары
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novyjbug/">
+<span class="mfSelect-col1">
+Новый Буг
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/novyjrozdol/">
+<span class="mfSelect-col1">
+Новый Роздол
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nosovka/">
+<span class="mfSelect-col1">
+Носовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/obuhov/">
+<span class="mfSelect-col1">
+Обухов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ovidiopol/">
+<span class="mfSelect-col1">
+Овидиополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ovruch/">
+<span class="mfSelect-col1">
+Овруч
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/olevsk/">
+<span class="mfSelect-col1">
+Олевск
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/olshanka/">
+<span class="mfSelect-col1">
+Ольшанка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/onufrievka/">
+<span class="mfSelect-col1">
+Онуфриевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/oratov/">
+<span class="mfSelect-col1">
+Оратов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/orehov/">
+<span class="mfSelect-col1">
+Орехов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/orzhica/">
+<span class="mfSelect-col1">
+Оржица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ostrog/">
+<span class="mfSelect-col1">
+Острог
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ochakov/">
+<span class="mfSelect-col1">
+Очаков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pavlograd/">
+<span class="mfSelect-col1">
+Павлоград
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kotsyubinskoye/">
+<span class="mfSelect-col1">
+пгт. Коцюбинское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pervomajsck/">
+<span class="mfSelect-col1">
+Первомайск (Днепропетровская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pervomaisk/">
+<span class="mfSelect-col1">
+Первомайск (Луганская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pervomajsk/">
+<span class="mfSelect-col1">
+Первомайск (Николаевская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pervomajskij/">
+<span class="mfSelect-col1">
+Первомайский
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/peremyshljany/">
+<span class="mfSelect-col1">
+Перемышляны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/perechin/">
+<span class="mfSelect-col1">
+Перечин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pereshhepino/">
+<span class="mfSelect-col1">
+Перещепино
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/perejaslav/">
+<span class="mfSelect-col1">
+Переяслав
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/peschanka/">
+<span class="mfSelect-col1">
+Песчанка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/petrikovka/">
+<span class="mfSelect-col1">
+Петриковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/petrovo/">
+<span class="mfSelect-col1">
+Петрово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/petropavlovka/">
+<span class="mfSelect-col1">
+Петропавловка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pechenegi/">
+<span class="mfSelect-col1">
+Печенеги
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pirjatin/">
+<span class="mfSelect-col1">
+Пирятин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pogrebishhe/">
+<span class="mfSelect-col1">
+Погребище
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/podvolochisk/">
+<span class="mfSelect-col1">
+Подволочиск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/podgajcy/">
+<span class="mfSelect-col1">
+Подгайцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/podgorodnoe/">
+<span class="mfSelect-col1">
+Подгородное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kotovsk/">
+<span class="mfSelect-col1">
+Подольск (Котовск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ordzhonikidze/">
+<span class="mfSelect-col1">
+Покров (Орджоникидзе)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/krasnoarmejsk/">
+<span class="mfSelect-col1">
+Покровск (Красноармейск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pokrovskoe/">
+<span class="mfSelect-col1">
+Покровское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pologi/">
+<span class="mfSelect-col1">
+Пологи
+</span>
+ </div>
+<div class="mfSelect-list-item" data-href="/currency/banks/polonnoe/">
+<span class="mfSelect-col1">
+Полонное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/poltava/">
+<span class="mfSelect-col1">
+Полтава
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/popasnaja/">
+<span class="mfSelect-col1">
+Попасная
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/popelnja/">
+<span class="mfSelect-col1">
+Попельня
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pochaev/">
+<span class="mfSelect-col1">
+Почаев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/priazovskoe/">
+<span class="mfSelect-col1">
+Приазовское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/privole/">
+<span class="mfSelect-col1">
+Приволье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/priluki/">
+<span class="mfSelect-col1">
+Прилуки
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/primorsk/">
+<span class="mfSelect-col1">
+Приморск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pustomyty/">
+<span class="mfSelect-col1">
+Пустомыты
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/putivl/">
+<span class="mfSelect-col1">
+Путивль
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/putile/">
+<span class="mfSelect-col1">
+Путила
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pjatihatki/">
+<span class="mfSelect-col1">
+Пятихатки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rava-russkaja/">
+<span class="mfSelect-col1">
+Рава-Русская
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/radehov/">
+<span class="mfSelect-col1">
+Радехов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/radivilov/">
+<span class="mfSelect-col1">
+Радивилов
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/radomyshl/">
+<span class="mfSelect-col1">
+Радомышль
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/razdelnaja/">
+<span class="mfSelect-col1">
+Раздельная
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rakitnoe/">
+<span class="mfSelect-col1">
+Ракитное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ratno/">
+<span class="mfSelect-col1">
+Ратно
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rahov/">
+<span class="mfSelect-col1">
+Рахов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/reni/">
+<span class="mfSelect-col1">
+Рени
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/repki/">
+<span class="mfSelect-col1">
+Репки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/reshetilovka/">
+<span class="mfSelect-col1">
+Решетиловка
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/rzhishhev/">
+<span class="mfSelect-col1">
+Ржищев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rovno/">
+<span class="mfSelect-col1">
+Ровно
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rogatin/">
+<span class="mfSelect-col1">
+Рогатин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rodynskoye/">
+<span class="mfSelect-col1">
+Родинское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rozhishhe/">
+<span class="mfSelect-col1">
+Рожище
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rozhnjatov/">
+<span class="mfSelect-col1">
+Рожнятов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rozovka/">
+<span class="mfSelect-col1">
+Розовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rokitnoe/">
+<span class="mfSelect-col1">
+Рокитное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/romanov/">
+<span class="mfSelect-col1">
+Романов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/romny/">
+<span class="mfSelect-col1">
+Ромны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rubizhne/">
+<span class="mfSelect-col1">
+Рубежное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/rudki/">
+<span class="mfSelect-col1">
+Рудки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ruzhin/">
+<span class="mfSelect-col1">
+Ружин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/borodyanka/">
+<span class="mfSelect-col1">
+с. Бородянка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/gatnoye/">
+<span class="mfSelect-col1">
+с. Гатное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kryukovshchina/">
+<span class="mfSelect-col1">
+с. Крюковщина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/petropavlovskayaborshchagovka/">
+<span class="mfSelect-col1">
+с. Петропавловская Борщаговка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/podgorcy/">
+<span class="mfSelect-col1">
+с. Подгорцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sofiyevskayaborshchagovka/">
+<span class="mfSelect-col1">
+с. Софиевская Борщаговка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/schastlivoye/">
+<span class="mfSelect-col1">
+с. Счастливое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/savran/">
+<span class="mfSelect-col1">
+Саврань
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sambor/">
+<span class="mfSelect-col1">
+Самбор
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sarata/">
+<span class="mfSelect-col1">
+Сарата
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sarny/">
+<span class="mfSelect-col1">
+Сарны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sahnovshhina/">
+<span class="mfSelect-col1">
+Сахновщина
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/svaljava/">
+<span class="mfSelect-col1">
+Свалява
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/svatove/">
+<span class="mfSelect-col1">
+Сватово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/svetlovodsk/">
+<span class="mfSelect-col1">
+Светловодск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/severodoneck/">
+<span class="mfSelect-col1">
+Северодонецк
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sednev/">
+<span class="mfSelect-col1">
+Седнев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/selidovo/">
+<span class="mfSelect-col1">
+Селидово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/semenovka/">
+<span class="mfSelect-col1">
+Семеновка (Полтавская область)
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/semjonovka/">
+<span class="mfSelect-col1">
+Семёновка (Черниговская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/seredina-buda/">
+<span class="mfSelect-col1">
+Середина-Буда
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/petrovskoe/">
+<span class="mfSelect-col1">
+Синежупанники (Петровское)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sinelnikovo/">
+<span class="mfSelect-col1">
+Синельниково
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/skadovsk/">
+<span class="mfSelect-col1">
+Скадовск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/skalat/">
+<span class="mfSelect-col1">
+Скалат
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/skvira/">
+<span class="mfSelect-col1">
+Сквира
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/skole/">
+<span class="mfSelect-col1">
+Сколе
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/slavuta/">
+<span class="mfSelect-col1">
+Славута
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/slavutich/">
+<span class="mfSelect-col1">
+Славутич
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/slavjanoserbsk/">
+<span class="mfSelect-col1">
+Славяносербск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/slavjansk/">
+<span class="mfSelect-col1">
+Славянск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/smela/">
+<span class="mfSelect-col1">
+Смела
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/smeljanka/">
+<span class="mfSelect-col1">
+Смелянка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/snigirjovka/">
+<span class="mfSelect-col1">
+Снигирёвка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shhors/">
+<span class="mfSelect-col1">
+Сновск (Щорс)
+</span>
+</div>
+ <div class="mfSelect-list-item" data-href="/currency/banks/snjatyn/">
+<span class="mfSelect-col1">
+Снятын
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sokal/">
+<span class="mfSelect-col1">
+Сокаль
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sokirjany/">
+<span class="mfSelect-col1">
+Сокиряны
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/soledar/">
+<span class="mfSelect-col1">
+Соледар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/solenoe/">
+<span class="mfSelect-col1">
+Соленое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sosnica/">
+<span class="mfSelect-col1">
+Сосница
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sofievka/">
+<span class="mfSelect-col1">
+Софиевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/srebnoe/">
+<span class="mfSelect-col1">
+Сребное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/stavishhe/">
+<span class="mfSelect-col1">
+Ставище
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/stanichno-luganskoe/">
+<span class="mfSelect-col1">
+Станично-Луганское
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/starajavyzhivka/">
+<span class="mfSelect-col1">
+Старая Выживка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/starajasinjava/">
+<span class="mfSelect-col1">
+Старая Синява
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/starobilsk/">
+<span class="mfSelect-col1">
+Старобельск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/starobeshevo/">
+<span class="mfSelect-col1">
+Старобешево
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/starokonstantinov/">
+<span class="mfSelect-col1">
+Староконстантинов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/staryjsambor/">
+<span class="mfSelect-col1">
+Старый Самбор
+</span>
+</div>
+
+<div class="mfSelect-list-item" data-href="/currency/banks/storozhinec/">
+<span class="mfSelect-col1">
+Сторожинец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/stryj/">
+<span class="mfSelect-col1">
+Стрый
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sumy/">
+<span class="mfSelect-col1">
+Сумы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/schaste/">
+<span class="mfSelect-col1">
+Счастье
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tavrijsk/">
+<span class="mfSelect-col1">
+Таврийск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/talalaevka/">
+<span class="mfSelect-col1">
+Талалаевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/talnoe/">
+<span class="mfSelect-col1">
+Тальное
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tarashha/">
+<span class="mfSelect-col1">
+Тараща
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tarutino/">
+<span class="mfSelect-col1">
+Тарутино
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tatarbunary/">
+<span class="mfSelect-col1">
+Татарбунары
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/teofipol/">
+<span class="mfSelect-col1">
+Теофиполь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/teplik/">
+<span class="mfSelect-col1">
+Теплик
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/teplogorsk/">
+<span class="mfSelect-col1">
+Теплогорск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/teplodar/">
+<span class="mfSelect-col1">
+Теплодар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/terebovlja/">
+<span class="mfSelect-col1">
+Теребовля
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ternovka/">
+<span class="mfSelect-col1">
+Терновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ternopol/">
+<span class="mfSelect-col1">
+Тернополь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tetiev/">
+<span class="mfSelect-col1">
+Тетиев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tlumach/">
+<span class="mfSelect-col1">
+Тлумач
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tokmak/">
+<span class="mfSelect-col1">
+Токмак
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tomakovka/">
+<span class="mfSelect-col1">
+Томаковка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tomashpol/">
+<span class="mfSelect-col1">
+Томашполь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dzerzhinsk/">
+<span class="mfSelect-col1">
+Торецк (Дзержинск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/troickoe/">
+<span class="mfSelect-col1">
+Троицкое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/trostjanec/">
+<span class="mfSelect-col1">
+Тростянец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/trostanec/">
+<span class="mfSelect-col1">
+Тростянец (Сумская область)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/truskavec/">
+<span class="mfSelect-col1">
+Трускавец
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tulchin/">
+<span class="mfSelect-col1">
+Тульчин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/turija/">
+<span class="mfSelect-col1">
+Турийск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/turka/">
+<span class="mfSelect-col1">
+Турка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tyvrov/">
+<span class="mfSelect-col1">
+Тывров
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tysmenica/">
+<span class="mfSelect-col1">
+Тысменица
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/tjachev/">
+<span class="mfSelect-col1">
+Тячев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ugledar/">
+<span class="mfSelect-col1">
+Угледар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ugnev/">
+<span class="mfSelect-col1">
+Угнев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/uzhgorod/">
+<span class="mfSelect-col1">
+Ужгород
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ukrainka/">
+<span class="mfSelect-col1">
+Украинка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/uman/">
+<span class="mfSelect-col1">
+Умань
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ustilug/">
+<span class="mfSelect-col1">
+Устилуг
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ustinovka/">
+<span class="mfSelect-col1">
+Устиновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/fastov/">
+<span class="mfSelect-col1">
+Фастов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/frunzovka/">
+<span class="mfSelect-col1">
+Фрунзовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/kherson/">
+<span class="mfSelect-col1">
+Херсон
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/hmelnik/">
+<span class="mfSelect-col1">
+Хмельник
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/khmelnitskiy/">
+<span class="mfSelect-col1">
+Хмельницкий
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/horol/">
+<span class="mfSelect-col1">
+Хорол
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/volodarsk-volynskij/">
+<span class="mfSelect-col1">
+Хорошев (Володарск-Волынский)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/hotin/">
+<span class="mfSelect-col1">
+Хотин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/hristinovka/">
+<span class="mfSelect-col1">
+Христиновка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/artemovskoe/">
+<span class="mfSelect-col1">
+Хромовое (Артемовское)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/hust/">
+<span class="mfSelect-col1">
+Хуст
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/hyrov/">
+<span class="mfSelect-col1">
+Хыров
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/carichanka/">
+<span class="mfSelect-col1">
+Царичанка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chaplinka/">
+<span class="mfSelect-col1">
+Чаплинка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chemerovcy/">
+<span class="mfSelect-col1">
+Чемеровцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chervonoarmejsk/">
+<span class="mfSelect-col1">
+Червоноармейск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chervonograd/">
+<span class="mfSelect-col1">
+Червоноград
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/cherkassy/">
+<span class="mfSelect-col1">
+Черкассы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernevcy/">
+<span class="mfSelect-col1">
+Черневцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernigov/">
+<span class="mfSelect-col1">
+Чернигов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernigovka/">
+<span class="mfSelect-col1">
+Черниговка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernobaj/">
+<span class="mfSelect-col1">
+Чернобай
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernovtsy/">
+<span class="mfSelect-col1">
+Черновцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ilichjovsk/">
+<span class="mfSelect-col1">
+Черноморск (Ильичёвск)
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernuhi/">
+ <span class="mfSelect-col1">
+Чернухи
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chernjahov/">
+<span class="mfSelect-col1">
+Черняхов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chechelnik/">
+<span class="mfSelect-col1">
+Чечельник
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chigirin/">
+<span class="mfSelect-col1">
+Чигирин
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chop/">
+<span class="mfSelect-col1">
+Чоп
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chortkov/">
+<span class="mfSelect-col1">
+Чортков
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chuguev/">
+<span class="mfSelect-col1">
+Чугуев
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chudnov/">
+<span class="mfSelect-col1">
+Чуднов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chutovo/">
+<span class="mfSelect-col1">
+ Чутово
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shargorod/">
+<span class="mfSelect-col1">
+Шаргород
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shhack/">
+<span class="mfSelect-col1">
+Шацк
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shevchenkovo/">
+<span class="mfSelect-col1">
+Шевченково
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shepetovka/">
+<span class="mfSelect-col1">
+Шепетовка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shirokoe/">
+<span class="mfSelect-col1">
+Широкое
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shirjaevo/">
+<span class="mfSelect-col1">
+Ширяево
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shishaki/">
+<span class="mfSelect-col1">
+Шишаки
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shostka/">
+<span class="mfSelect-col1">
+Шостка
+
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shpola/">
+<span class="mfSelect-col1">
+Шпола
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/shumsk/">
+<span class="mfSelect-col1">
+Шумск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/energodar/">
+<span class="mfSelect-col1">
+Энергодар
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/juzhnoukrainsk/">
+<span class="mfSelect-col1">
+Южноукраинск
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/juzhnyj/">
+<span class="mfSelect-col1">
+Южный
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jurevka/">
+<span class="mfSelect-col1">
+Юрьевка
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/javorov/">
+<span class="mfSelect-col1">
+Яворов
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jagotin/">
+<span class="mfSelect-col1">
+Яготин
+</span>
+ </div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jampole/">
+<span class="mfSelect-col1">
+Ямполе
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jampol/">
+<span class="mfSelect-col1">
+Ямполь
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jaremcha/">
+<span class="mfSelect-col1">
+Яремча
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jarmolincy/">
+<span class="mfSelect-col1">
+Ярмолинцы
+</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jasinovataja/">
+<span class="mfSelect-col1">
+Ясиноватая
+</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="sorting--city col-sm-8 col-md-4 col-lg-4">
+<div class="mfm-header--date">
+<div class="mfm-header--select-trigger conv-select-date-wrap js-datepicker" data-min-date="2014/07/01">
+<i class="icon-converter icon-time"></i>
+<input type="hidden" class="js-datepicker-val conv-invisible-input" value="" data-url="/currency/banks/">
+<span>17 Мая</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="full-wrapper">
+<a href="https://new.minfin.com.ua/banks/top-reviews" target="_blank" class="wrapper-review-button">
+<span class="review-button">
+<span class="text-small">За лучший отзыв месяца</span>
+<span class="text-description">3 000 грн</span>
+</span>
+</a>
+</div>
+</div>
+</section>
+<section>
+<div class="bg-white">
+<table class="table-response mfm-table mfcur-table-lg-banks mfcur-table-lg
+            ">
+<thead>
+<tr>
+<th class="mfcur-table-cur mfm-text-grey">КУРС К ГРИВНЕ</th>
+<th>
+<span class="mfcur-thead-title">
+Средний курс<i class="icon-help-circled-alt mfm-tooltip mfm-tooltip-top">
+<span class="mfm-tooltip-body">
+Средний курс валюты в банках Украины
+<hr>
+</span>
+</i>
+</span>
+<div class="mfm-text-nowrap">
+<small>Покупка / Продажа</small>
+</div>
+</th>
+<th>НБУ</th>
+<th>
+<span class="mfcur-thead-title">
+Валютный аукцион <i class="icon-help-circled-alt mfm-tooltip mfm-tooltip-top">
+<span class="mfm-tooltip-body">
+Частные объявления об обмене валют в Украине<br>
+<a href="/currency/auction/usd/buy/all/">Перейти</a>
+<hr>
+</span>
+</i>
+</span>
+<div class="mfm-text-nowrap ">
+<small>Покупают / Продают</small>
+</div>
+</th>
+<th><span class="mfz-1264-hidden">За неделю</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/usd/">ДОЛЛАР</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+31.945
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+32.180
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+29.2549
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-open">
+0.000000</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">34.520
+<span class="mfm-text-light-grey">/</span>
+34.900</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-up-open">
++0.042
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/usd.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/eur/">ЕВРО</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+33.000
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.040</span>
+</span>
+33.450
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+30.4792
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.102400</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">36.100
+<span class="mfm-text-light-grey">/</span>
+36.700</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.470
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/eur.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/rub/">РУБЛЬ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+0.3350
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+0.3850
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+0.45523
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.005710</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">0.200
+<span class="mfm-text-light-grey">/</span>
+0.435</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-open">
+0.000
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/rub.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/pln/">ПОЛЬСКИЙ ЗЛОТЫЙ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+6.8000
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.050</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+7.1300
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+6.52970
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.042300</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">7.490
+<span class="mfm-text-light-grey">/</span>
+7.750</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.145
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/pln.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/chf/">ШВЕЙЦАРСКИЙ ФРАНК</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+29.405
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.145</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.150</span>
+</span>
+32.030
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+29.1224
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-down-open">
+-0.136900</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">33.000
+<span class="mfm-text-light-grey">/</span>
+36.400</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.358
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/chf.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr>
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/gbp/">АНГЛИЙСКИЙ ФУНТ СТЕРЛИНГОВ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+37.210
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.020</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+39.220
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+35.8621
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.198900</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">40.500
+<span class="mfm-text-light-grey">/</span>
+43.000</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.535
+грн</span>
+ <span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/gbp.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/aud/">АВСТРАЛИЙСКИЙ ДОЛЛАР</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+20.260
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.600</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.665</span>
+</span>
+22.270
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+20.2502
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.086300</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">-</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.515
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/aud.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/byn/">БЕЛОРУССКИЙ РУБЛЬ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+12.500
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+15.000
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+10.6335
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-open">
+0.000000</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">10.900
+<span class="mfm-text-light-grey">/</span>
+11.000</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-open">
+0.000
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/byn.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/cad/">КАНАДСКИЙ ДОЛЛАР</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+22.640
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.460</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.070</span>
+</span>
+24.740
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+22.6352
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.140900</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">24.000
+<span class="mfm-text-light-grey">/</span>
+27.000</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.478
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/cad.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/cny/">ЮАНЬ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+3.0000
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+4.0000
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+4.30760
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-down-open">
+-0.001700</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">4.025
+<span class="mfm-text-light-grey">/</span>
+5.025</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-open">
+0.000
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/cny.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/czk/">ЧЕШСКАЯ КРОНА</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+1.2700
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.040</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.003</span>
+</span>
+1.3425
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+1.23350
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.005300</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">1.290
+<span class="mfm-text-light-grey">/</span>
+1.450</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-up-open">
++0.004
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/czk.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/dkk/">ДАТСКАЯ КРОНА</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+4.1000
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.070</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-up-open">
++ 0.105</span>
+</span>
+4.5000
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+4.09570
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.013500</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">-</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.018
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/dkk.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/huf/">ВЕНГЕРСКИЙ ФОРИНТ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+0.0790
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.001</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+0.0870
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+0.07899
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-down-open">
+-0.000039</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">0.080
+<span class="mfm-text-light-grey">/</span>
+0.093</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.002
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/huf.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/ils/">ШЕКЕЛЬ</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+6.5000
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-open">
+0.000</span>
+</span>
+7.5000
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+8.57210
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.038700</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">8.000
+<span class="mfm-text-light-grey">/</span>
+9.950</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-open">
+0.000
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/ils.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/jpy/">ЙЕНА</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+0.2260
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.003</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.002</span>
+</span>
+0.2480
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+0.22593
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-down-open">
+-0.000770</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">2.200
+<span class="mfm-text-light-grey">/</span>
+2.490</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-up-open">
++0.001
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/jpy.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/nok/">НОРВЕЖСКАЯ КРОНА</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+2.9900
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.160</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.175</span>
+</span>
+3.2800
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+2.98710
+
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.010300</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">-</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.115
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/nok.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+<tr class="mfz-hidden">
+<td class="mfcur-table-cur" data-title="Курс к гривне">
+<a href="/currency/banks/sek/">ШВЕДСКАЯ КРОНА</a>
+</td>
+<td class="mfm-text-nowrap" data-title="Средний курс" data-small="Покупка / Продажа">
+2.9100
+<span class="mfm-text-light-grey mfm-posr">
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.070</span>
+/
+<span class="mfm-hover-show mfm-table-trend icon-down-open">
+-0.080</span>
+</span>
+3.1900
+</td>
+<td data-title="НБУ">
+<span class="mfcur-nbu-full-wrap">
+2.90270
+<br>
+<span class="mfcur-nbu-full mfm-text-grey mfm-text-nowrap mfm-hover-show icon-up-open">
++ 0.004100</span>
+</span>
+</td>
+<td class="mfm-text-nowrap" data-title="Валютный аукцион" data-small="Покупают / Продают">-</td>
+<td data-title="За неделю">
+<span class="mfcur-sparkline-wrap mfz-1264-hidden">
+<span class="mfcur-sparkline-indicator icon-down-open">
+-0.045
+грн</span>
+<span class="inlinesparkline"></span>
+</span>
+<a href="#" data-url="/data/currency/retail/sek.rates.full.json" class="mfm-button mfz-v-hidden icon-chart-area js-mfcur-showChart"></a>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2" class="mfcur-table-cur">
+<a class="mfm-dotted js-mfcur-moreCurrencies mfm-caret-down" href="#">БОЛЬШЕ ВАЛЮТ</a>
+</td>
+ <td colspan="3" class="mfm-text-right">
+<a class="icon-credit-card mfm-long-arrow-right" href="/currency/cards/">Курсы при оплате картой</a>
+</td>
+</tr>
+</tfoot>
+</table>
+<link rel="stylesheet" href="/dist/css/redesign/helper/developers-6f150ba28d.css">
+<div class="mf-developers ">
+<div class="mf-developers-row">
+<div class="mf-developers-icon">
+<svg viewBox="0 0 24 24" width="24" height="24">
+<use xlink:href="/i/redesign/layouts/terminal.svg#terminal"></use>
+</svg>
+</div>
+<div class="mf-developers-text">
+Получайте актуальные данные о курсах валют в Украине с помощью API от Minfin.com.ua
+</div>
+</div>
+<a class="mf-developers-link" href="https://minfin.com.ua/developers/api/?utm_source=currency_banks&utm_medium=promo_block&utm_campaign=developers_organic" target="_blank">
+Перейти
+</a>
+</div>
+<div class="c-content-bn-slot-content">
+<div data-bn-slot="bn-slot-content-1"></div>
+</div>
+<h2 class="mfm-h3 c-h3-currency">
+Курс валют в банках
+</h2>
+<div class="mfm-tab-menu">
+<a class="active" href="/currency/banks/usd/">ДОЛЛАР</a>
+<a href="/currency/banks/eur/">ЕВРО</a>
+<a href="/currency/banks/rub/">РУБЛЬ</a>
+<a class="mfm-tab-menu-dropdown js-mfcur-curlist" href="#">
+ДРУГИЕ ВАЛЮТЫ
+<input type="hidden" class="js-mfcur-output">
+</a>
+
+<div class="mfSelect-wrap js-cur-mfSelect without-triangle" style="display: none;">
+<input type="text" class="mfSelect-search-input" placeholder="Введите название валюты" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" role="textbox" oncontextmenu="return false">
+<div class="mfSelect-lists-scroll-view">
+<div class="mfSelect-lists-container">
+<div class="mfSelect-list-item" data-href="/currency/banks/gbp/">
+<span class="mfSelect-col1">GBP</span>
+<span class="mfSelect-col2">английский фунт стерлингов</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/chf/">
+<span class="mfSelect-col1">CHF</span>
+<span class="mfSelect-col2">швейцарский франк</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/sek/">
+<span class="mfSelect-col1">SEK</span>
+<span class="mfSelect-col2">шведская крона</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/pln/">
+<span class="mfSelect-col1">PLN</span>
+<span class="mfSelect-col2">польский злотый</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/nok/">
+<span class="mfSelect-col1">NOK</span>
+ <span class="mfSelect-col2">норвежская крона</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/jpy/">
+<span class="mfSelect-col1">JPY</span>
+<span class="mfSelect-col2">японская йена</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/dkk/">
+<span class="mfSelect-col1">DKK</span>
+<span class="mfSelect-col2">датская крона</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/cny/">
+<span class="mfSelect-col1">CNY</span>
+<span class="mfSelect-col2">юань женьминьби</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/cad/">
+<span class="mfSelect-col1">CAD</span>
+<span class="mfSelect-col2">канадский доллар</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/aud/">
+<span class="mfSelect-col1">AUD</span>
+<span class="mfSelect-col2">австралийский доллар</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/byn/">
+<span class="mfSelect-col1">BYN</span>
+<span class="mfSelect-col2">белорусский рубль</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/huf/">
+<span class="mfSelect-col1">HUF</span>
+<span class="mfSelect-col2">венгерский форинт</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/czk/">
+<span class="mfSelect-col1">CZK</span>
+<span class="mfSelect-col2">чешская крона</span>
+</div>
+<div class="mfSelect-list-item" data-href="/currency/banks/ils/">
+<span class="mfSelect-col1">ILS</span>
+<span class="mfSelect-col2">израильский шекель</span>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="mfm-grey-bg">
+<div class="responsive-show js-responsive-show">
+<label for="">Тип сортировки:</label>
+<select name="sortingType" id="sortingType">
+<option selected="selected" value="cash">В кассах банков</option>
+<option value="card">При оплате картой</option>
+</select>
+</div>
+<table class="table-response second-table smTable mfm-table mfcur-table-sm mfcur-table-sm-banks" id="smTable">
+<thead>
+<tr class="responsive-hide">
+<th class="mfcur-table-search-wrap" rowspan="2">
+<div class="mfm-iputs-group mfcur-search-wrap">
+</div>
+</th>
+<th class="mfm-text-center mfcur-thead-th-colspan" colspan="3">В кассах банков</th>
+<th class="mfm-text-center mfcur-thead-th-colspan" colspan="3">
+<i class="icon-credit-card"></i> При оплате картой <i class="icon-help-circled-alt mfm-tooltip mfm-tooltip-top">
+<span class="mfm-tooltip-body">
+Курс платежных карт. <br>
+<a href="/currency/cards/">Перейти</a>
+<hr>
+</span>
+</i>
+</th>
+<th rowspan="2">
+<div class="mfm-th-filter"><a class="js-mfcur-sort">Время<span class="mfz-1264-hidden"><br>обновления</span></a>
+</div>
+</th>
+<th rowspan="2"></th>
+</tr>
+<tr data-head-title="Название банка" class="table-head-row">
+<td class="exchange-value mfm-text-right mfcur-thead-td-colspan">
+<div class="mfm-th-filter mfm-text-nowrap">
+<a class="js-mfcur-sort">Покупка</a>
+</div>
+</td>
+<td class="exchange-value mfm-text-center mfcur-thead-slash mfm-text-light-grey">
+/
+</td>
+<td class="exchange-value mfm-text-left mfcur-thead-td-colspan">
+<div class="mfm-th-filter mfm-text-nowrap">
+<a class="js-mfcur-sort">Продажа</a>
+</div>
+</td>
+<td class="exchange-value responsive-hide mfm-text-right mfcur-thead-td-colspan">
+<div class="mfm-th-filter mfm-text-nowrap">
+<a class="js-mfcur-sort">Покупка</a>
+</div>
+</td>
+<td class="exchange-value responsive-hide mfm-text-center mfcur-thead-slash mfm-text-light-grey">
+/
+</td>
+<td class="exchange-value responsive-hide mfm-text-left mfcur-thead-td-colspan">
+<div class="mfm-th-filter mfm-text-nowrap">
+<a class="js-mfcur-sort">Продажа</a>
+</div>
+</td>
+</tr>
+</thead>
+<tbody class="list">
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.500 / 32.180" data-card="29.255 /32.051">
+<a href="/company/privatbank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-privatbank"></span>Приватбанк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.500</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.180</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.500 / 32.180" data-small="29.255 /32.051">29.255 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">32.051 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/privatbank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/privatbank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.500 / 32.180" data-card="29.255 /31.740">
+<a href="/company/oschadbank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-oschadbank"></span>Ощадбанк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.500</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.180</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.500 / 32.180" data-small="29.255 /31.740">29.255 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">31.740 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/oschadbank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/oschadbank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.500 / 32.180" data-card="31.500 /32.180">
+<a href="/company/ukreximbank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-ukreximbank"></span>Укрэксимбанк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.500</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.180</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.500 / 32.180" data-small="31.500 /32.180">31.500 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">32.180 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/ukreximbank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/ukreximbank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="32.000 / 32.170" data-card=" -">
+<a href="/company/aval/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-aval"></span>Райффайзен Банк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">32.000</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.170</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="32.000 / 32.170" data-small=" -"> </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">-</td>
+ <td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа"> </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/aval/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/aval/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.800 / 32.180" data-card=" -">
+<a href="/company/pumb/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-pumb"></span>ПУМБ
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.800</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.180</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.800 / 32.180" data-small=" -"> </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">-</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа"> </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/pumb/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/pumb/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.500 / 32.170" data-card="31.500 /31.750">
+<a href="/company/ukrgasbank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-ukrgasbank"></span>Укргазбанк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.500</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.170</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.500 / 32.170" data-small="31.500 /31.750">31.500 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">31.750 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/ukrgasbank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/ukrgasbank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="32.100 / 32.170" data-card="29.260 /31.500">
+<a href="/company/alfa-bank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-alfa-bank"></span>Альфа-Банк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">32.100</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.170</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="32.100 / 32.170" data-small="29.260 /31.500">29.260 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">31.500 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/alfa-bank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/alfa-bank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="29.500 / 32.180" data-card="29.300 /31.850">
+<a href="/company/otp-bank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-otp-bank"></span>OTP Bank
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">29.500</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.180</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="29.500 / 32.180" data-small="29.300 /31.850">29.300 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">31.850 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/otp-bank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/otp-bank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="29.260 / 29.550" data-card="29.260 /31.300">
+<a href="/company/ukrsibbank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-ukrsibbank"></span>Укрсиббанк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">29.260</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">29.550</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="29.260 / 29.550" data-small="29.260 /31.300">29.260 </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа">31.300 </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:45</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/ukrsibbank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/ukrsibbank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+<tr class="row--collapse">
+<td class="js-ex-rates mfcur-table-bankname" data-title="31.950 / 32.150" data-card=" -">
+<a href="/company/universal-bank/" class="mfm-black-link"><span class="mfm-bank-icon mfm-i-universal-bank"></span>Универсал Банк
+</a>
+</td>
+<td class="responsive-hide mfm-text-right mfm-pr0" data-title="В кассах банков" data-small="Покупка">31.950</td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">/
+</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="В кассах банков" data-small="Продажа">32.150</td>
+<td class="js-ex-rates respons-collapsed mfm-text-right mfm-pr0" data-title="При оплате картой" data-card-title="В кассах банков" data-card="31.950 / 32.150" data-small=" -"> </td>
+<td class="responsive-hide mfm-text-center mfm-text-light-grey mfcur-m0p0" data-small="Покупка / Продажа">-</td>
+<td class="responsive-hide mfm-text-left mfm-pl0" data-title="При оплате картой" data-small="Продажа"> </td>
+<td class="respons-collapsed mfcur-table-refreshtime" data-title="Время обновления">2022.05.17 08:00</td>
+<td class="respons-collapsed mfcur-table-bank-location" data-title="Страница банка">
+<a href="/company/universal-bank/" class="responsive-show banks-page mfm-black-link">
+<span>Страница банка</span></a>
+<a href="/company/universal-bank/branches/"><span>Отделения банка</span><i class="icon-location"></i></a></td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="5">
+<a href="/currency/banks/usd/" class="mfm-button">Все банки</a>
+</td>
+<td colspan="4" class="mfm-text-right">
+<a href="/currency/city/" class="mfm-long-arrow-right">Все города</a>
+</td>
+ </tr>
+</tfoot>
+</table>
+<div class="mfcur-table-warning">
+Курсы с сайтов банков. Некоторые банки могут взимать комиссии за конвертацию. Узнать курс, по которому будут списаны деньги, можно в колл-центре банка.
+</div>
+</div>
+
+<div style="display: block; margin: auto;">
+</div>
+</section>
+</div>
+</div>
+
+<div class="mfz-col-aside">
+<div class="aside-wrap">
+<div class="maybe-mrg"><div style="width: 300px;" data-bn-slot="bn-slot-premium"></div></div>
+<div class="maybe-mrg"></div>
+<div class="maybe-mrg">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-7462546778979920" data-ad-slot="9862275746/2059478186">
+</ins>
+<script>
+(adsbygoogle=window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="mfm-aside-block js-ad-aside"></div>
+<div class="maybe-mrg js-ad-aside"></div>
+<div class="bn-slot-sticky" data-bn-slot="bn-slot-sticky-1a"></div>
+
+</div>
+</div>
+<div style="clear: both;"></div>
+</div>
+</div>
+</main>
+<div class="mfz-section">
+<div class="mfz-container">
+<div class="c-content-bn-slot-content">
+<div data-bn-slot="bn-slot-bottom"></div>
+</div>
+</div>
+</div>
+<img id="ad-300" class="banner" alt="banner" style="position: absolute;" src="/i/ads/banner.gif" />
+<link rel="stylesheet" href="/dist/css/redesign/utils/breadcrumbs-e43f1898d7.css">
+<div class="mfz-breadcrumbs mfz-section">
+<div class="mfz-container">
+<div class="c-breadcrumbs">
+<a href="/">Главная</a>
+/
+<a href="/currency/">Курс валют 📈</a>
+/
+<span>Курс валют в банках</span>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://minfin.com.ua/","name":"Главная"}},{"@type":"ListItem","position":2,"item":{"@id":"https://minfin.com.ua/currency/","name":"Курс валют 📈"}},{"@type":"ListItem","position":3,"item":{"@id":"https://minfin.com.ua/currency/banks/","name":"Курс валют в банках"}}]}</script>
+<div class="mfz-seo mfz-section">
+<div class="mfz-container"><p>
+Узнайте лучший курс валют в&nbsp;банках Украины. Сравнительная таблица курсов валют, чтобы вы&nbsp;могли выбрать самый выгодный курс валют в&nbsp;банках Украины на&nbsp;портале Minfin.com.ua. Рассчитать стоимость валюты онлайн поможет <a href="/currency/converter/">конвертер валют</a>. Владея информацией о&nbsp;курсе валют вы&nbsp;сможете с&nbsp;легкостью подобрать <a href="/deposits/">депозит в&nbsp;Украине</a>, узнать стоимость товаров на&nbsp;иностранных сайтах, а&nbsp;также ориентироваться в&nbsp;экономической ситуацие в&nbsp;стране.</p></div>
+</div>
+<footer class="footer mfz-container"><div class="footer-wrapper"><div class="footer__content"><div class="footer__left"><a class="footer__logo" href="https://minfin.com.ua/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-logo-footer-ru"></use></svg></a><div class="footer__feedback"><form action="https://minfin.com.ua/search/" method="GET" class="search footer__search"><span class="search__icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><circle cx="6.5" cy="6.5" r="4.5" stroke="#93A4AC" stroke-width="2"></circle><path d="M10 10L14.5 14.5" stroke="#93A4AC" stroke-width="2"></path></svg></span><input type="text" placeholder="Начните поиск" class="search__input" name="q"><input type="hidden" name="searchid" value="1783219"><input type="hidden" name="l10n" value="ru"><button class="btn btn_variant_primary search__btn ms-2">Найти</button></form><div class="footer__report-btn report mb-4"><button data-report-btn class="btn btn_variant_secondary">Сообщить об ошибке</button><div class="report__container"><span data-report-close class="report__close-btn"></span><p class="report__title">Сообщить об ошибке</p><div class="report__variant"><input checked id="radio1" name="variant" type="radio" value="Ошибка в тексте" /><label for="radio1">Ошибка в тексте</label></div><div class="report__variant"><input id="radio2" name="variant" type="radio" value="Что-то не работает" /><label for="radio2">Что-то не работает</label></div><div class="report__variant"><input id="radio3" name="variant" type="radio" value="Идея, пожелание" /><label for="radio3">Идея, пожелание</label></div><p class="report__error">Заполните все обязательные поля!</p><p class="report__user">Сообщение:</p><textarea class="report__message"></textarea><div class="report__email d-none"><p class="report__email-title">Введите E-mail, чтобы получить ответ:</p><input class="report__email-input" /></div><div class="report__upload-file"><p class="report__file-msg">Загрузить скрин страницы с ошибкой:</p><label class="report__file-label"><input type="file" accept="image/*" id="file-upload" required>Загрузить файл</label><p id="file-name"></p></div><a class="report__btn">Отправить</a></div><div class="report-success d-none"><p>Спасибо! Сообщение об ошибке успешно отправлено. Мы всё прочитаем и исправим.</p></div></div></div><div class="footer__socials"><p class="socials__title">Присоединяйтесь к нам в соц. сетях:</p><div class="d-flex mb-4"><a href="https://www.facebook.com/minfin.com.ua/" class="btn btn_variant_primary btn_p0 socials__btn"><svg width="8" height="16" viewBox="0 0 8 16"><path xmlns="http://www.w3.org/2000/svg" id="facebook" d="M2.32424 16V8.84375H0V6H2.32424V3.75938C2.32424 1.325 3.76667 0 5.87273 0C6.88182 0 7.74849 0.078125 8 0.1125V2.65625H6.53939C5.39394 2.65625 5.17273 3.21875 5.17273 4.04063V6H7.75758L7.40303 8.84375H5.17273V16"></path></svg></a><a href="https://t.me/Minfin_com_ua/" class="btn btn_variant_primary btn_p0 socials__btn"><svg width="16" height="14" viewBox="0 0 16 14"><path xmlns="http://www.w3.org/2000/svg" id="telegram" d="M0.282607 6.71486L3.96933 8.09086L5.39631 12.68C5.48762 12.974 5.84703 13.0826 6.08559 12.8876L8.14063 11.2122C8.35605 11.0367 8.66287 11.028 8.88799 11.1914L12.5946 13.8824C12.8498 14.0679 13.2113 13.9281 13.2753 13.6197L15.9906 0.558861C16.0604 0.222008 15.7294 -0.0590057 15.4087 0.0650476L0.278287 5.9019C-0.0950995 6.0459 -0.0918461 6.57454 0.282607 6.71486ZM5.16634 7.35838L12.3716 2.92067C12.5011 2.84115 12.6343 3.01625 12.5231 3.11939L6.57669 8.64686C6.36767 8.84142 6.23285 9.10179 6.19466 9.38441L5.9921 10.8855C5.96527 11.086 5.68373 11.1058 5.62842 10.9119L4.84938 8.17454C4.76015 7.86233 4.89018 7.52883 5.16634 7.35838Z"></path></svg></a><a href="https://twitter.com/MinfinComUa/" class="btn btn_variant_primary btn_p0 socials__btn"><svg width="16" height="13" viewBox="0 0 16 13"><path xmlns="http://www.w3.org/2000/svg" id="twitter" d="M14.3554 3.23983C14.3655 3.38201 14.3655 3.52422 14.3655 3.6664C14.3655 8.0031 11.066 13 5.03555 13C3.17767 13 1.45179 12.4617 0 11.5274C0.26397 11.5578 0.517752 11.568 0.791878 11.568C2.32485 11.568 3.73605 11.05 4.86296 10.1664C3.42133 10.1359 2.2132 9.19141 1.79694 7.8914C2.00001 7.92185 2.20304 7.94217 2.41626 7.94217C2.71067 7.94217 3.00511 7.90153 3.2792 7.83047C1.77666 7.52576 0.649721 6.20546 0.649721 4.61093V4.57032C1.08625 4.81407 1.59391 4.96641 2.13195 4.9867C1.24869 4.39763 0.670034 3.39217 0.670034 2.25466C0.670034 1.6453 0.832441 1.08671 1.11672 0.599204C2.73095 2.58983 5.15736 3.88981 7.87816 4.03202C7.82741 3.78827 7.79694 3.53438 7.79694 3.28047C7.79694 1.47264 9.25888 2.28972e-08 11.0761 2.28972e-08C12.0203 2.28972e-08 12.8731 0.396093 13.4721 1.03594C14.2132 0.893756 14.9238 0.619524 15.5533 0.243752C15.3096 1.00549 14.7919 1.64533 14.1117 2.05155C14.7716 1.98049 15.4112 1.79764 16 1.54376C15.5534 2.19373 14.995 2.77262 14.3554 3.23983Z"></path></svg></a><a href="https://www.instagram.com/minfin.com.ua/" class="btn btn_variant_primary btn_p0 socials__btn"><svg width="18" height="18" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M255.9 170.6C208.9 170.6 170.5 209 170.5 256C170.5 303 208.9 341.4 255.9 341.4C302.9 341.4 341.3 303 341.3 256C341.3 209 302.9 170.6 255.9 170.6ZM512 256C512 220.6 512.3 185.6 510.3 150.3C508.3 109.3 499 72.9999 469 42.9999C439 12.9999 402.7 3.69986 361.7 1.69986C326.3 -0.300137 291.3 -0.000136957 256 -0.000136957C220.6 -0.000136957 185.6 -0.300137 150.3 1.69986C109.3 3.69986 73 12.9999 43 42.9999C13 72.9999 3.69999 109.3 1.69999 150.3C-0.300015 185.7 -1.48863e-05 220.7 -1.48863e-05 256C-1.48863e-05 291.3 -0.300015 326.4 1.69999 361.7C3.69999 402.7 13 439 43 469C73 499 109.3 508.3 150.3 510.3C185.7 512.3 220.7 512 256 512C291.4 512 326.4 512.3 361.7 510.3C402.7 508.3 439.1 499 469 469C499 439 508.3 402.7 510.3 361.7C512.4 326.4 512 291.4 512 256ZM255.9 387.4C183.2 387.4 124.5 328.7 124.5 256C124.5 183.3 183.2 124.6 255.9 124.6C328.6 124.6 387.3 183.3 387.3 256C387.3 328.7 328.6 387.4 255.9 387.4ZM392.7 149.9C375.7 149.9 362 136.2 362 119.2C362 102.2 375.7 88.4999 392.7 88.4999C409.7 88.4999 423.4 102.2 423.4 119.2C423.4 136.2 409.7 149.9 392.7 149.9Z"></path></svg></a><a href="https://www.youtube.com/channel/UCEW1QlFX_ito4gd3QXxyt5Q/" class="btn btn_variant_primary btn_p0 socials__btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M21.582,6.186c-0.23-0.86-0.908-1.538-1.768-1.768C18.254,4,12,4,12,4S5.746,4,4.186,4.418 c-0.86,0.23-1.538,0.908-1.768,1.768C2,7.746,2,12,2,12s0,4.254,0.418,5.814c0.23,0.86,0.908,1.538,1.768,1.768 C5.746,20,12,20,12,20s6.254,0,7.814-0.418c0.861-0.23,1.538-0.908,1.768-1.768C22,16.254,22,12,22,12S22,7.746,21.582,6.186z M10,15.464V8.536L16,12L10,15.464z"></path></svg></a></div><script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script><div class="trustpilot-widget" data-locale="ru-RU" data-template-id="5613c9cde69ddc09340c6beb" data-businessunit-id="5d3b584610d69d00019209b7" data-style-height="100%" data-style-width="164" data-theme="dark"><a href="https://ru.trustpilot.com/review/minfin.com.ua" target="_blank" rel="nofollow">Trustpilot</a></div></div><div class="footer__apps"><p class="apps__title">Приложение «Минфин Валюта»</p><div class="apps__links"><a href="https://play.google.com/store/apps/details?id=net.treeum.minfin.currency" class="apps__link" target="_blank"><div class="link__icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-playmarket"></use></svg></div><div class="link__texts"><p class="link__text">Доступно в </p><div class="link__iconText"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-googlePlay"></use></svg></div></div></a><a href="https://apple.co/3hPij9Y" class="apps__link" target="_blank"><div class="link__apple"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-apple"></use></svg></div><div class="link__texts"><p class="link__text">Доступно в </p><div class="link__appStore"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class=""><use xlink:href="#theme-icon-AppStore"></use></svg></div></div></a></div></div></div><div class="footer__right"><div style="border:none;" class="dropdown show"><button class="dropdown__btn dropdown__btn_hovered"><span class="p-event-none">Финансы</span></button><div class="dropdown__menu"><a class="dropdown__item" href="/currency/" target="_self">Курс валют</a><a class="dropdown__item" href="/currency/usd/" target="_self">Курс доллара</a><a class="dropdown__item" href="/currency/eur/" target="_self">Курс евро</a><a class="dropdown__item" href="/currency/nbu/" target="_self">Курс НБУ</a><a class="dropdown__item" href="/cards/" target="_self">Банковские карты</a><a class="dropdown__item" href="/invest/brokers/" target="_self">Инвестиционные брокеры</a><a class="dropdown__item" href="/currency/mb/" target="_self">Межбанк</a><a class="dropdown__item" href="/deposits/" target="_self">Депозиты</a><a class="dropdown__item" href="https://index.minfin.com.ua/tariff/gas/" target="_self">Тарифы на газ</a><a class="dropdown__item" href="/currency/converter/" target="_self">Конвертер валют</a><a class="dropdown__item" href="/credits/online/" target="_self">Кредит онлайн</a><a class="dropdown__item" href="/banks/top/" target="_self">Народный рейтинг банков</a></div></div><div class="dropdown show dropdown_fullwidth"><button data-dropdown class="dropdown__btn dropdown__btn_hovered show"><span class="chevron p-event-none"></span><span class="p-event-none">Популярные банки</span></button><div class="dropdown__menu"><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Приватбанк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/privatbank/" target="_self">Вся информация о Приватбанке</a><a class="links-menu__item" href="/company/privatbank/currency/" target="_self">Курс валют в Приватбанке</a><a class="links-menu__item" href="/company/privatbank/review/" target="_self">Отзывы о Приватбанке</a><a class="links-menu__item" href="/company/privatbank/credits/" target="_self">Кредиты Приватбанка</a><a class="links-menu__item" href="/deposits/bank_privatbank/" target="_self">Депозиты Приватбанка</a><a class="links-menu__item" href="/company/privatbank/branches/" target="_self">Отделения Приватбанка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Укрсиббанк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/ukrsibbank/" target="_self">Вся информация о Укрсиббанке</a><a class="links-menu__item" href="/company/ukrsibbank/currency/" target="_self">Курс валют в Укрсиббанке</a><a class="links-menu__item" href="/company/ukrsibbank/review/" target="_self">Отзывы о Укрсиббанке</a><a class="links-menu__item" href="/company/ukrsibbank/credits/" target="_self">Кредиты Укрсиббанка</a><a class="links-menu__item" href="/deposits/bank_ukrsibbank/" target="_self">Депозиты Укрсиббанка</a><a class="links-menu__item" href="/company/ukrsibbank/branches/" target="_self">Отделения Укрсиббанка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Ощадбанк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/oschadbank/" target="_self">Вся информация о Ощадбанке</a><a class="links-menu__item" href="/company/oschadbank/currency/" target="_self">Курс валют в Ощадбанке</a><a class="links-menu__item" href="/company/oschadbank/review/" target="_self">Отзывы о Ощадбанке</a><a class="links-menu__item" href="/company/oschadbank/credits/" target="_self">Кредиты Ощадбанка</a><a class="links-menu__item" href="/deposits/bank_oschadbank/" target="_self">Депозиты Ощадбанка</a><a class="links-menu__item" href="/company/oschadbank/branches/" target="_self">Отделения Ощадбанка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Альфа-Банк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/alfa-bank/" target="_self">Вся информация о Альфа-Банке</a><a class="links-menu__item" href="/company/alfa-bank/currency/" target="_self">Курс валют в Альфа-Банке</a><a class="links-menu__item" href="/company/alfa-bank/review/" target="_self">Отзывы о Альфа-Банке</a><a class="links-menu__item" href="/company/alfa-bank/credits/" target="_self">Кредиты Альфа-Банка</a><a class="links-menu__item" href="/deposits/bank_alfa-bank/" target="_self">Депозиты Альфа-Банка</a><a class="links-menu__item" href="/company/alfa-bank/branches/" target="_self">Отделения Альфа-Банка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">ПУМБ</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/pumb/" target="_self">Вся информация о ПУМБ</a><a class="links-menu__item" href="/company/pumb/currency/" target="_self">Курс валют в ПУМБ</a><a class="links-menu__item" href="/company/pumb/review/" target="_self">Отзывы о ПУМБ</a><a class="links-menu__item" href="/company/pumb/credits/" target="_self">Кредиты ПУМБ</a><a class="links-menu__item" href="/deposits/bank_pumb/" target="_self">Депозиты ПУМБ</a><a class="links-menu__item" href="/company/pumb/branches/" target="_self">Отделения ПУМБ</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Укргазбанк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/ukrgasbank/" target="_self">Вся информация о Укргазбанке</a><a class="links-menu__item" href="/company/ukrgasbank/currency/" target="_self">Курс валют в Укргазбанке</a><a class="links-menu__item" href="/company/ukrgasbank/review/" target="_self">Отзывы о Укргазбанке</a><a class="links-menu__item" href="/company/ukrgasbank/branches/" target="_self">Отделения Укргазбанка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">Райффайзен Банк Аваль</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/aval/" target="_self">Вся информация о Райффайзен Банке Аваль</a><a class="links-menu__item" href="/company/aval/currency/" target="_self">Курс валют в Райффайзен Банке Аваль</a><a class="links-menu__item" href="/company/aval/review/" target="_self">Отзывы о Райффайзен Банке Аваль</a><a class="links-menu__item" href="/company/aval/credits/" target="_self">Кредиты Райффайзен Банка Аваль</a><a class="links-menu__item" href="/deposits/bank_aval/" target="_self">Депозиты Райффайзен Банка Аваль</a><a class="links-menu__item" href="/company/aval/branches/" target="_self">Отделения Райффайзен Банка Аваль</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">ОТП банк</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/otp-bank/" target="_self">Вся информация о ОТП Банке</a><a class="links-menu__item" href="/company/otp-bank/currency/" target="_self">Курс валют в ОТП Банке</a><a class="links-menu__item" href="/company/otp-bank/review/" target="_self">Отзывы о ОТП Банке</a><a class="links-menu__item" href="/company/otp-bank/branches/" target="_self">Отделения ОТП Банка</a></div></div></div><div class="dropdown footer__dropdown"><button data-dropdown class="dropdown__btn py-1"><span class="chevron p-event-none"></span><span class="p-event-none">monobank</span></button><div class="dropdown__menu"><div class="links-menu"><a class="links-menu__item" href="/company/monobank/" target="_self">Вся информация о monobank</a><a class="links-menu__item" href="/company/monobank/review/" target="_self">Отзывы о monobank</a><a class="links-menu__item" href="/deposits/bank_monobank/" target="_self">Депозиты monobank</a><a class="links-menu__item" href="/company/monobank/branches/" target="_self">Отделения monobank</a></div></div></div></div></div><div class="dropdown show dropdown_fullwidth"><button data-dropdown class="dropdown__btn dropdown__btn_hovered show"><span class="chevron p-event-none"></span><span class="p-event-none">Валютный аукцион</span></button><div class="dropdown__menu"><a class="dropdown__item" href="/currency/auction/" target="_self">Обмен валют</a><a class="dropdown__item" href="/currency/auction/exchanger/" target="_self">Курс валют в обменниках</a><a class="dropdown__item" href="/currency/auction/market/" target="_self">Курс валют на черном рынке</a><a class="dropdown__item" href="/currency/auction/usd/buy/all/" target="_self">Купить доллар</a><a class="dropdown__item" href="/currency/auction/eur/buy/all/" target="_self">Купить евро</a><a class="dropdown__item" href="/currency/auction/pln/buy/all/" target="_self">Купить злотый</a></div></div><div class="dropdown dropdown_fullwidth"><button data-dropdown class="dropdown__btn dropdown__btn_hovered"><span class="chevron p-event-none"></span><span class="p-event-none">Курсы по городам</span></button><div class="dropdown__menu"><a class="dropdown__item" href="/currency/kiev/" target="_self">Курс валют в Киеве</a><a class="dropdown__item" href="/currency/kharkov/" target="_self">Курс валют в Харькове</a><a class="dropdown__item" href="/currency/odessa/" target="_self">Курс валют в Одессе</a><a class="dropdown__item" href="/currency/lvov/" target="_self">Курс валют во Львове</a><a class="dropdown__item" href="/currency/ivano-frankovsk/" target="_self">Курс валют в Ивано-Франковске</a><a class="dropdown__item" href="/currency/lutsk/" target="_self">Курс валют в Луцке</a><a class="dropdown__item" href="/currency/dnepropetrovsk/" target="_self">Курс валют в Днепре</a><a class="dropdown__item" href="/currency/poltava/" target="_self">Курс валют в Полтаве</a><a class="dropdown__item" href="/currency/ternopol/" target="_self">Курс валют в Тернополе</a><a class="dropdown__item" href="/currency/uzhgorod/" target="_self">Курс валют в Ужгороде</a><a class="dropdown__item" href="/currency/zaporozhye/" target="_self">Курс валют в Запорожье</a><a class="dropdown__item" href="/currency/rovno/" target="_self">Курс валют в Ровном</a></div></div><div class="dropdown dropdown_fullwidth"><button data-dropdown class="dropdown__btn dropdown__btn_hovered"><span class="chevron p-event-none"></span><span class="p-event-none">Полезные страницы</span></button><div class="dropdown__menu"><a class="dropdown__item" href="/currency/discuss/" target="_self">Валютный форум</a><a class="dropdown__item" href="https://index.minfin.com.ua/economy/index/inflation/" target="_self">Индекс инфляции</a><a class="dropdown__item" href="/realty/rating/" target="_self">Рейтинг застройщиков</a><a class="dropdown__item" href="/deposits/calculator/" target="_self">Депозитный калькулятор</a><a class="dropdown__item" href="/credits/" target="_self">Кредит наличными</a><a class="dropdown__item" href="https://index.minfin.com.ua/labour/salary/min/" target="_self">Минимальная зарплата</a><a class="dropdown__item" href="/help/registration/" target="_self">Что даёт регистрация?</a><a class="dropdown__item" href="/developers/api/" target="_self">API курсов валют</a><a class="dropdown__item" href="/sitemap/" target="_self">Карта сайта</a></div></div><div class="dropdown show dropdown_fullwidth"><button data-dropdown class="dropdown__btn dropdown__btn_hovered show"><span class="chevron p-event-none"></span><span class="p-event-none">О Minfin.com.ua</span></button><div class="dropdown__menu"><a class="dropdown__item" href="/about/" target="_self">О компании</a><a class="dropdown__item" href="/contacts/" target="_self">Контакты</a><a class="dropdown__item" href="/authors/" target="_self">Редакция </a><a class="dropdown__item" href="/job/" target="_self">Карьера</a><a class="dropdown__item" href="/experts/" target="_self">Эксперты</a><a class="dropdown__item" href="/using-rules/" target="_self">Правила пользования</a><a class="dropdown__item" href="/policy/" target="_self">Политика конфиденциальности</a><a class="dropdown__item" href="/data/advertise/mediakit_2021.pdf" target="_self">Реклама </a><a class="dropdown__item" href="/edpolicy/" target="_self">Редакционная политика</a></div></div></div></div><div class="copyright"><div class="copyright__left"><div class="copyright__badges"><div class="lazy-image" data-src="https://minfin.com.ua/i/redesign/layouts/footer/visa.jpg" data-alt="visa"></div><div class="lazy-image" data-src="https://minfin.com.ua/i/redesign/layouts/footer/mc.jpg" dara-alt="mc"></div><a href="//www.cloudflare.com" target="_blank"></a><script defer type="text/javascript">
+                    try{window.CloudFlare||function(){var a=window.document,b=a.createElement("script"),a=a.getElementsByTagName("script")[0];
+                    window.CloudFlare=[];b.type="text/javascript";b.async=!0;b.src="https://ajax.cloudflare.com/cdn-cgi/nexp/cloudflare.js";
+                    a.parentNode.insertBefore(b,a)}(),CloudFlare.push(function(a){a(["cloudflare/badge"])})}catch(e$$5)
+                    {try{console.error("CloudFlare badge code could not be loaded. "+e$$5.message)}catch(e$$6){}};
+                    </script></div><div class="copyright__text">© 2008-2022 ООО "МинфинМедиа". Код ЕГРПОУ: 35506859 <br /> Копирование и размещение материалов на других сайтах разрешается только с гиперссылкой вида: www.minfin.com.ua<br /> Информация на данной странице не является рекламой банковских услуг. Верифицированную банком информацию о продуктах и услугах можно посмотреть на официальном сайте соответствующего банка.<br /> Телефон: (044) 392-47-40<br /> Звонок в пределах территории Украины со всех номеров операторов мобильной и городской связи по тарифам операторов<br /> График работы: понедельник - пятница с 09:00 до 18:00<br /> Юридический адрес: Украина, Киев, Вадима Гетьмана, 1-Б, 3 этаж</div></div><div class="copyright__right"><a class="dmca-badge" rel="nofollow" title="DMCA.com Protection Status" href="https://www.dmca.com/Protection/Status.aspx?ID=89315278-94bc-4496-82cf-0641465bda91"><div class="lazy-image" data-src="https://images.dmca.com/Badges/dmca-badge-w200-5x1-09.png?ID=89315278-94bc-4496-82cf-0641465bda91" data-alt="DMCA.com Protection Status"></div></a><script defer src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script></div></div></div></footer><div data-bn-slot="bn-slot-branding"></div>
+<script src="/dist/js/redesign/libs/jquery-1-c6d22456b0.11.1.min.js"></script>
+<script src="/dist/js/redesign/libs/js-526dbfca43.cookie.js"></script>
+<script src="/dist/js/redesign/libs/jstorage-0-0541a99b03.4.12.min.js"></script>
+<script src="/dist/js/redesign/libs/TweenMax-1-ffb615075e.15.0.min.js"></script>
+<script src="/dist/js/main/localization-3f279fea55.js"></script>
+<script src="/dist/js/main/localization_main_uk-b726262589.js"></script>
+<script type="text/javascript" src="https://themes.minfin.com.ua/asset/script/minfin202104.10e73951.js"></script>
+<script src="/dist/js/jquery/jquery-56be28a164.sparkline.min.js"></script>
+<script src="/dist/js/jquery/datetimepicker/jquery-bc922ed437.datetimepicker.js"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="/dist/js/redesign/content/currency/currency-banks-aeda6b1c7b.js"></script>
+<script>
+  function nextPage(input) {
+    location.href = '/search/' + '?q=' + $('[name="' + input + '"]').val() + '&searchid=1783219&l10n=ru';
+  }
+  $('[name="whatq"]').keypress(function(event) {
+    var keycode = event.keyCode || event.which;
+    if(keycode == '13') {
+      nextPage('whatq');
+    }
+  });
+  $('[name="what"]').click( function() {
+    nextPage('whatq');
+  });
+</script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js?20210805"></script>
+<script type="text/javascript" src="/dist/js/jquery/jquery-9d040098b6.mf-select.js?20210805"></script>
+<script type="text/javascript" src="/dist/js/redesign/content/currency/currency-2f1c007d08.complex.js?20210805"></script>
+<script src="/dist/js/redesign/libs/svg4everybody-214b7b312b.js"></script>
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T387CZ"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+<script>(function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T387CZ');</script>
+
+<div data-bn-slot="bn-slot-catfish"></div>
+<div data-bn-slot="bn-slot-catfish_2"></div>
+
+
+<script src="https://api.venyoo.ru/wnew.js?wc=venyoo/default/science&widget_id=6324389996658688"></script>
+</body>
+</html>
