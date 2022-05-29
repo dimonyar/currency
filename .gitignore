@@ -136,3 +136,6 @@ static_content/
 
 .pytest_cache
 
+var/
+settings_local.py
+

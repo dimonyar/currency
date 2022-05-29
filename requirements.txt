@@ -39,3 +39,5 @@ pytest
 pytest-django
 pytest-cov
 pytest-mock
+
+uwsgi

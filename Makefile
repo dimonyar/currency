@@ -11,6 +11,9 @@ shell:
 run:
 	$(manage_py) runserver
 
+uwsgi:
+	cd app && uwsgi --http :8000 --module settings.wsgi --threads 2 --workers 4 --daemonize=var/log/uwsgi/currency_uwsgi.log
+
 worker:
 	cd app && celery -A settings worker -l info --autoscale 1,10
 
@@ -38,3 +41,12 @@ flake8:
 
 # fixture
 # python app/manage.py dumpdata currency.rate > rate.json
+
+# /usr/local/etc/nginx/nginx.conf
+# sudo nginx -s quit && sudo nginx
+# ps -ef | grep nginx.
+
+
+
+# ps ax|grep uwsgi
+# killall uwsgi
