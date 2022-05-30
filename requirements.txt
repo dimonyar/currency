@@ -9,6 +9,8 @@ djangorestframework-xml
 djangorestframework-csv
 djangorestframework-simplejwt
 
+psycopg2-binary
+
 celery
 
 requests
@@ -33,7 +35,7 @@ flake8-variables-names==0.0.4
 flake8-import-order
 pep8-naming==0.12.1
 
-python-dotenv==0.20.0
+django-environ
 
 pytest
 pytest-django

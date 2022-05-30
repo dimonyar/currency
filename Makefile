@@ -15,7 +15,7 @@ uwsgi:
 	cd app && uwsgi --http :8000 --module settings.wsgi --threads 2 --workers 4 --daemonize=var/log/uwsgi/currency_uwsgi.log
 
 worker:
-	cd app && celery -A settings worker -l info --autoscale 1,10
+	cd app && celery -A settings worker -l info -c 2
 
 beat:
 	cd app && celery -A settings beat -l info
@@ -50,3 +50,9 @@ flake8:
 
 # ps ax|grep uwsgi
 # killall uwsgi
+
+
+# docker-compose up -d
+# docker-compose stop
+
+# docker logs postgres
