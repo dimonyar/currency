@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+
+  backend:
+    command: python app/manage.py runserver 0:8000
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+    environment:
+      - DEBUG=True

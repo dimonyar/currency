@@ -32,6 +32,8 @@ env = environ.Env(
     DEBUG=(bool, False)
 )
 # SECURITY WARNING: keep the secret key used in production secret!
+DEBUG = env('DEBUG')
+
 SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
@@ -144,7 +146,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = os.environ.get('STATIC_URL', '/static/')
 STATICFILES_DIRS = [
     BASE_DIR / '..' / 'static_content' / 'static'
 ]
@@ -154,9 +156,14 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-INTERNAL_IPS = [
-    "127.0.0.1",
-]
+
+# docker
+if DEBUG:
+    import os  # only if you haven't already imported this
+    import socket  # only if you haven't already imported this
+
+    hostname, _, ips = socket.gethostbyname_ex(socket.gethostname())
+    INTERNAL_IPS = [ip[:-1] + '1' for ip in ips] + ['127.0.0.1', '10.0.2.2']
 
 # email settings
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
@@ -176,7 +183,7 @@ DOMAIN = 'localhost:8000'
 HTTP_SCHEMA = 'http'
 
 MEDIA_ROOT = BASE_DIR / '..' / 'static_content' / 'media'
-MEDIA_URL = '/media/'
+MEDIA_URL = os.environ.get('MEDIA_URL', '/media/')
 
 CELERY_BROKER_URL = f'amqp://{os.environ["RABBITMQ_DEFAULT_USER"]}:' \
                     f'{os.environ["RABBITMQ_DEFAULT_PASS"]}@' \
