@@ -8,6 +8,7 @@ drf-yasg
 djangorestframework-xml
 djangorestframework-csv
 djangorestframework-simplejwt
+django-silk
 
 psycopg2-binary
 
