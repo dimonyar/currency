@@ -58,6 +58,8 @@ INSTALLED_APPS = [
     'drf_yasg',
     'rest_framework_simplejwt',
 
+    'silk',
+
     'accounts',
     'currency',
 ]
@@ -73,6 +75,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+
+    'silk.middleware.SilkyMiddleware',
 
 ]
 
